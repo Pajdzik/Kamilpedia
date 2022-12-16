@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "3709bb6638180b64",
+    "type": "split",
+    "children": [
+      {
+        "id": "25650a67a052f97e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586f00c4127faa16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/Tools/Monorepos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "769555518bd2a4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1204e7c4c201fbb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/Cloud pattterns/Message queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26cacab47855c9aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "21b90195493b4f9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1069cd021f66dc7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33d5b8dec6070b05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df374ee23cd21497",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ecd17e20f1df49c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e38ef38637e8c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9703e0183d48996f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engineering/Cloud pattterns/Message queues.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1be46a85cca187be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engineering/Cloud pattterns/Message queues.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "511ec6de017ce120",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99e70b712fc17035",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engineering/Cloud pattterns/Message queues.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1204e7c4c201fbb3",
+  "lastOpenFiles": [
+    "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
+    "Engineering/Tools/Monorepos.md"
+  ]
+}
