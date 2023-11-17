@@ -1,0 +1,36 @@
+- Unicode is a table that assigns unique numbers to different characters
+- the largest defined code point is 0x10FFFF
+- _Private use_ – code points reserved for app developers and will never be defined by Unicode itself
+- Encodings:
+	- USC-2
+		- Predecessor to UTF-16
+		- Fixed two bytes
+	- UTF-32
+		- code points are always 32-bit integers
+		- even in this case, one code point is not always a single character
+	- UTF-16
+		- USC-2 + surrogate pairs (two UTF-16 units to encode one code point)
+		- the top 6 bits in surrogate pairs are used for the mask
+		- Used by .NET and JavaScript
+	- UTF-8
+		- variable-length encoding
+		- one to four bytes long
+		- byte-compatible with ASCII
+		- space efficient
+		- error detection built-in
+		- length of a string is not straight-forward
+- �
+	- Replacement Character
+	- displayed when Unicode error is encountered
+- An Extended Grapheme Cluster is a sequence of one or more Unicode code points that must be treated as a single, unbreakable character
+- the first version of Unicode was supposed to be fixed-width
+- C# - use `TextElementEnumerator`
+- UTF-8 is the most popular encoding for data in transfer and at rest
+- UTF-16 is still sometimes used as an in-memory representation
+- The two most important views for strings are bytes (allocate memory/copy/encode/decode) and extended grapheme clusters (all semantic operations)
+- Using code points for iterating over a string is wrong. They are not the basic unit of writing. One grapheme could consist of multiple code points.
+- Unicode strings need to be normalized before they can be compared.
+- Unicode depends on locale for some operations and for rendering.
+# Links
+- [# The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
+- [# It’s Not Wrong that `"🤦🏼‍♂️".length == 7`](https://hsivonen.fi/string-length/)
