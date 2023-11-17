@@ -5,3 +5,7 @@
 - *Problem*: a module very likely imports another barrel file which pulls in a bunch of other files, which then imports yet another barrel file and so on
 ## References
 [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
+
+# Front end
+- [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
+- 
