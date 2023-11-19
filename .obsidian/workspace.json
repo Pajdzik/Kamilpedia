@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript.md",
+                "file": "Software/WireGuard.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript.md",
+                "file": "Software/WireGuard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript.md",
+                "file": "Software/WireGuard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript.md"
+                "file": "Software/WireGuard.md"
               }
             }
           }
@@ -165,9 +165,10 @@
   },
   "active": "0eea6fa10a38f477",
   "lastOpenFiles": [
-    "Engineering/Languages and Frameworks/Node.js.md",
-    "Engineering/Languages and Frameworks/JavaScript.md",
     "Software/Raspberry Pi.md",
+    "Software/WireGuard.md",
+    "Engineering/Languages and Frameworks/JavaScript.md",
+    "Engineering/Languages and Frameworks/Node.js.md",
     "Engineering/Tools/Shell.md",
     "Engineering/Technology/Unicode.md",
     "Engineering/Tools/Git.md",
