@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/WireGuard.md",
+                "file": "Software/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ecd17e20f1df49c",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/WireGuard.md",
+                "file": "Software/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/WireGuard.md",
+                "file": "Software/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/WireGuard.md"
+                "file": "Software/Docker.md"
               }
             }
           }
@@ -163,10 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eea6fa10a38f477",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
-    "Software/Raspberry Pi.md",
+    "Engineering/Tools/VMs.md",
+    "Software/Docker.md",
     "Software/WireGuard.md",
+    "Software/Raspberry Pi.md",
     "Engineering/Languages and Frameworks/JavaScript.md",
     "Engineering/Languages and Frameworks/Node.js.md",
     "Engineering/Tools/Shell.md",
