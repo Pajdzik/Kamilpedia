@@ -22,8 +22,10 @@ network={
 }
 ```
 # NAS
-1. `sudo apt install nfs-common`
-2. `sudo mount -t nfs 192.168.x.x:/home /mnt/synology`[5](https://kb.synology.com/en-ro/DSM/tutorial/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS#x_anchor_id9)
+1. `sudo apt-get install nfs-common -y`
+2. `sudo mkdir /mnt/media`
+3. `sudo nvim /etc/fstab`
+4. `sudo mount -t nfs 192.168.x.x:/home /mnt/synology`[5](https://kb.synology.com/en-ro/DSM/tutorial/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS#x_anchor_id9)
 # VPN
 1. Install WireGuard – `sudo apt update && sudo apt install openresolv wireguard iptables`
 2. Generate a configuration file – https://mullvad.net/en/account?platform=linux&next=%2Fen%2Faccount%2Fwireguard-config
