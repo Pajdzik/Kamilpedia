@@ -34,6 +34,8 @@ Install basic packages
 		- have to start with lowercase letters
 	- 1. evaluate e
 	- 2. bind the value to x
+- Top level directives start with `#`
+	- Module include
 ### Types
 - string enclosed in `""`
 - string concatenation is `^`
@@ -41,5 +43,8 @@ Install basic packages
 - type annotation: `(exp : type)`
 
 ### Functions
+- can be called with parenthesis or not
+- applied
+- 
 
 # References
