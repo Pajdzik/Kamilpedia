@@ -1,12 +1,38 @@
-# Add
+- git represents commits as snapshots (it stores the “tree” of the current version of every file)
+
+# Commands
+## add
 - When running `git add`, Git hashes the content, and puts blob in `.git/objects`
 
-# Commit
+## commit
 - When committing, Git creates a new tree object with representation of the state of the repository at the time
 
-# Rebase
-## Notes
+## merge-base
+- `git merge-base main mybranch`
+- gives us the “base” commit where our branch branched off
 
+## rebase
 
-## Links
+### Links
 - https://www.freecodecamp.org/news/git-rebase-handbook/
+
+
+# Concepts
+
+## Branches
+### Links
+- [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+## Packfiles
+- deduplication technique
+- really created to reduce network usage
+- stored in `.git/objects/pack/`
+	- packfile
+	- index to locate entries inside of the packfile
+- objects in a packfile can either be _deltified_ or _non-deltified_
+	- deltified - stores only a special diff instead of storing the whole object
+		- ones with the extra SHA at the end
+### Links
+- [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles)
+# Links
+- [# Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+- 
