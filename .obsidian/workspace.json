@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2256d887eb3979e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eea6fa10a38f477",
+  "active": "2256d887eb3979e2",
   "lastOpenFiles": [
     "Engineering/Languages and Frameworks/OCaml.md",
     "Engineering/Technology/Postgres.md",
