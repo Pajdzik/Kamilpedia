@@ -26,31 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2256d887eb3979e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/HVAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97c1e2edaaac49bd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/HVAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/HVAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97c1e2edaaac49bd",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
     "Home/HVAC.md",
     "Home",
