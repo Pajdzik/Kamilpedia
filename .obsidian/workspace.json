@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb1578ec997918eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "0eea6fa10a38f477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Tools/Git.md",
+                "file": "Engineering/Accounting/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering/Accounting/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering/Accounting/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering/Accounting/Notes.md"
+              }
             }
           }
         ]
@@ -159,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1069cd021f66dc7e",
+  "active": "0eea6fa10a38f477",
   "lastOpenFiles": [
+    "Engineering/Untitled.md",
+    "Engineering/Accounting/Notes.md",
+    "Engineering/Accounting",
+    "Engineering/Tools/Git.md",
     "Home/HVAC.md",
     "Home",
     "Engineering/Languages and Frameworks/OCaml.md",
@@ -173,7 +172,6 @@
     "Engineering/Languages and Frameworks/JavaScript.md",
     "Engineering/Tools/Shell.md",
     "Engineering/Technology/Unicode.md",
-    "Engineering/Tools/Git.md",
     "Engineering/Technology",
     "Engineering/AI/Image generation.md",
     "Engineering/Tools/npm.md",
