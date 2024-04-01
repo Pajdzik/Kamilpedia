@@ -35,6 +35,7 @@
 			- output in `git status
 				- `HEAD detached at 90c81c72` when there is a commit ID in the file
 			- output in `git log`
+			- output merge conflicts
 ### Links
 - [How HEAD works in git](obsidian://open?vault=Kamilpedia&file=Articles%2FProgramming%2FHow%20HEAD%20works%20in%20git)s
 ## Packfiles
