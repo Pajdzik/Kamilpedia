@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2661874ba8f8a281",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2661874ba8f8a281",
+  "active": "0eea6fa10a38f477",
   "lastOpenFiles": [
     "Engineering/Untitled.md",
     "Engineering/Accounting/Notes.md",

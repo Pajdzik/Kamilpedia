@@ -5,6 +5,9 @@
 	- **balance** – number of units in the bag at the particular moment in time
 		- can be negative
 	- **posting** – changing the state of the account
+	- types:
+		- **balance** – 
+		- **delta** – 
 - **debit**
 	- in asset accounts "removed from your account"
 		- withdrawal
