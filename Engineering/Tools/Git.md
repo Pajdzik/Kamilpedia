@@ -22,6 +22,10 @@
 ## Branches
 ### Links
 - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+## HEAD
+### Links
+- [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
+
 ## Packfiles
 - deduplication technique
 - really created to reduce network usage
@@ -33,6 +37,9 @@
 		- ones with the extra SHA at the end
 ### Links
 - [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles)
+# Tools
+- [git branchless](https://github.com/arxanas/git-branchless)
+- 
 # Links
 - [# Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 - 
