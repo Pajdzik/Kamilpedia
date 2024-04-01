@@ -23,9 +23,20 @@
 ### Links
 - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 ## HEAD
+### Notes
+- Three meanings
+	- `.git/HEAD` file
+		- name of the current branch
+		- commit hash
+			- detached HEAD state
+	- commit (`git show HEAD`)
+		- a.k.a. revision parameters
+	- other
+			- output in `git status
+				- `HEAD detached at 90c81c72` when there is a commit ID in the file
+			- output in `git log`
 ### Links
-- [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
-
+- [How HEAD works in git](obsidian://open?vault=Kamilpedia&file=Articles%2FProgramming%2FHow%20HEAD%20works%20in%20git)s
 ## Packfiles
 - deduplication technique
 - really created to reduce network usage
