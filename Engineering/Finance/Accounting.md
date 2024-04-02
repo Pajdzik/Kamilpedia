@@ -1,4 +1,4 @@
-# Double-entry accounting
+
 ## Terms
 - **account** – accumulator (~bag/container)
 	- starts empty
@@ -13,9 +13,23 @@
 - **debit**
 	- in asset accounts "removed from your account"
 		- withdrawal
+		- assets = positive balance
+		- liabilities = negative balance
 - **credit**
 	- in asset accounts "deposited in your account"
 		- deposit
+		- expenses = positive balance
+- **normal sign**
+	- most accounts will keep the same sign
+
+
+### Account types
+
+| Type / Balance                                | Positive (+) | Negative (-) |
+| --------------------------------------------- | ------------ | ------------ |
+| *Balance sheet*<br>(at a point in time)       | Assets       | Liabilities  |
+| *Income statement*<br>(over a period of time) | Expenses     | Income       |
+
 
 ## Statements
 ### Timeline
