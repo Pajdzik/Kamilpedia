@@ -6,8 +6,10 @@
 		- can be negative
 	- **posting** – changing the state of the account
 	- types:
-		- **balance** – 
-		- **delta** – 
+		- **balance** – sum of all at a particular moment in time (e.g. checking account)
+			- balance sheet accounts
+		- **delta** – company's expenses; summed to quarters, months etc.
+			- income statement accounts
 - **debit**
 	- in asset accounts "removed from your account"
 		- withdrawal
