@@ -29,6 +29,10 @@
 | --------------------------------------------- | ------------ | ------------ |
 | *Balance sheet*<br>(at a point in time)       | Assets       | Liabilities  |
 | *Income statement*<br>(over a period of time) | Expenses     | Income       |
+- **assets** – something you _have_ e.g. checking account
+- **liabilities** – something you _owe_ e.g. a loan
+- **expenses** – something you _received_ e.g. travel
+- **income** – something _given away_ to receive something e.g. dividends from investments
 
 
 ## Statements
