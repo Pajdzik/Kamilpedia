@@ -1,3 +1,4 @@
+# GIL
 # Concurrency & threading
 ## Notes
 - **thread** – separate flow of execution
@@ -6,7 +7,7 @@
 	- running truly in parallel requires:
 		- a non-standard implementation of Python
 		- use of `multiprocessing` package
-	- 
+	- GIL limits 
 ## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - 
