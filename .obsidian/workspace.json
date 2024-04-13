@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b06431a6a28dd351",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eea6fa10a38f477",
+  "active": "b06431a6a28dd351",
   "lastOpenFiles": [
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation.md",
     "Engineering/Finance/Accounting.md",

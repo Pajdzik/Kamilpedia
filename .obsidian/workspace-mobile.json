@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
+                "file": "Interview/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "4e3dd8067b3f4ea8",
@@ -85,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
+            "file": "Interview/General.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
+            "file": "Interview/General.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md"
+            "file": "Interview/General.md"
           }
         }
       }
@@ -133,6 +132,7 @@
   },
   "active": "6ab30dd11a6a7a2f",
   "lastOpenFiles": [
+    "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
     "Software/Home assistant.md",
     "Obsidian.md"
   ]
