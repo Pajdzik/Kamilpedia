@@ -24,7 +24,8 @@
 		- automatically calls `lock.acquire` and `lock.release`
 	- `RLock`
 		- can be acquired multiple times
-		- useful for recursive execution
+		- useful for recursive execution and publicly available methods that overlap in functionality
+	- 
 ## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - 
