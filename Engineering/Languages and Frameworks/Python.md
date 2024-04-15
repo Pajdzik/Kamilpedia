@@ -17,7 +17,13 @@
 	- part of `concurrent.futures`
 	- can be used with `with` statement to automatically clean the threads up
 	- `thread.join` is handled "automatically"
-	- 
+-  synchronization can be achieved with `Lock` object
+	- behaves like a mutex
+	- can be acquired only once
+	- can be used with `with` block which will release the lock at the end of the block
+		- automatically calls `lock.acquire` and `lock.release`
+	- `RLock`
+		- can be acquired multiple times
 ## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - 
