@@ -67,3 +67,10 @@ timeline
 | **Final balance** |             |        |        | 875.00  |
 
 # Sources
+- [Accounting for Computer Scientists – M. Kleppmann](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
+- [Accounting Patterns – M. Fowler](https://martinfowler.com/apsupp/accounting.pdf
+- [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4/edit?pli=1#heading=h.jo5avukxj1q)
+- [Accounting for Developers 102](https://docs.google.com/document/d/1qhtirHUzPu7Od7yX3A4kA424tjFCv5Kbi42xj49tKlw/edit#heading=h.f80lwjsl7o5d)
+- [Accounting for Developers 103](https://docs.google.com/document/d/1kIwonczHvJLgzcijLtljHc5fccQ6fKI6TodhnGYHCEA/edit#heading=h.f80lwjsl7o5d)
+- [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html#introduction)
+- 
