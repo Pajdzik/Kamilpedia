@@ -18,21 +18,22 @@
 	- can be used with `with` statement to automatically clean the threads up
 	- `thread.join` is handled "automatically"
 -  synchronization can be achieved with `Lock` object
-	- behaves like a mutex
-	- can be acquired only once
-	- can be used with `with` block which will release the lock at the end of the block
-		- automatically calls `lock.acquire` and `lock.release`
-	- `RLock`
-		- can be acquired multiple times
-		- useful for recursive execution and publicly available methods that overlap in functionality
 - `queue.Queue` 
 	- [docs](https://docs.python.org/3/library/queue.html#module-queue)
 	- multi-consumer <=> multi-producer queue
 	- thread safe
-	- 
+### threading module objects
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
 	- `set` boolean flag
+- `threading.Lock`
+	- behaves like a mutex
+	- can be acquired only once
+	- can be used with `with` block which will release the lock at the end of the block
+		- automatically calls `lock.acquire` and `lock.release`
+- `threading.RLock`
+		- can be acquired multiple times
+		- useful for recursive execution and publicly available methods that overlap in functionality
  
  ## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
