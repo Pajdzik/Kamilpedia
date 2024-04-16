@@ -26,6 +26,10 @@
 		- can be acquired multiple times
 		- useful for recursive execution and publicly available methods that overlap in functionality
 - `queue.Queue` 
+	- [docs](https://docs.python.org/3/library/queue.html#module-queue)
+	- multi-consumer <=> multi-producer queue
+	- thread safe
+	- 
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
 ## References
