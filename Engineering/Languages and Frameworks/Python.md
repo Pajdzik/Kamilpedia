@@ -32,7 +32,9 @@
 	- 
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
-## References
+	- `set` boolean flag
+ 
+ ## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
 - 
