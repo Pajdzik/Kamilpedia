@@ -40,4 +40,5 @@
 - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
 -
 
-# Doc
+# Documents
+- [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)\
