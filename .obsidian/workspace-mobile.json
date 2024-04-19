@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/General.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "4e3dd8067b3f4ea8",
@@ -84,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Interview/General.md",
+            "file": "Engineering/Languages and Frameworks/Python.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Interview/General.md",
+            "file": "Engineering/Languages and Frameworks/Python.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Interview/General.md"
+            "file": "Engineering/Languages and Frameworks/Python.md"
           }
         }
       }
@@ -132,6 +133,7 @@
   },
   "active": "6ab30dd11a6a7a2f",
   "lastOpenFiles": [
+    "Interview/General.md",
     "Engineering/Cloud pattterns/Content Delivery Networks (CDN).md",
     "Software/Home assistant.md",
     "Obsidian.md"
