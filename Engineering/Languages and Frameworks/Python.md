@@ -22,6 +22,7 @@
 	- [docs](https://docs.python.org/3/library/queue.html#module-queue)
 	- multi-consumer <=> multi-producer queue
 	- thread safe
+- `print` function is _not_ thread safe
 ### threading module objects
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
