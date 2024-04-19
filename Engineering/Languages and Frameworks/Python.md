@@ -23,6 +23,8 @@
 	- multi-consumer <=> multi-producer queue
 	- thread safe
 - `print` function is _not_ thread safe
+	- by default, messages are not flushed to stdout until an internal buffer is full
+	- can be forced with `flush=True`
 ### threading module objects
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
@@ -39,7 +41,7 @@
  ## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
--
+- [Thread-Safe Print in Python](https://superfastpython.com/thread-safe-print-in-python/)
 
 # Documents
 - [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)\
