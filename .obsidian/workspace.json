@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Algorithms & data structure.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Algorithms & data structure.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Algorithms & data structure.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Algorithms & data structure.md"
+                "file": "Engineering/Languages and Frameworks/Python.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "b06431a6a28dd351",
   "lastOpenFiles": [
-    "Interview/System design.md",
     "Interview/Algorithms & data structure.md",
+    "Interview/System design.md",
     "Engineering/Languages and Frameworks/Python.md",
     "Engineering/Finance/Accounting.md",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation.md",
