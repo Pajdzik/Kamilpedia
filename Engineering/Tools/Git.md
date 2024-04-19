@@ -4,6 +4,9 @@
 ## add
 - When running `git add`, Git hashes the content, and puts blob in `.git/objects`
 
+## blame
+- `git blame -C -C -C` ignores moved or copied lines
+
 ## commit
 - When committing, Git creates a new tree object with representation of the state of the repository at the time
 
