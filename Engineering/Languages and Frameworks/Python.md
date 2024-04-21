@@ -8,8 +8,7 @@
 		- a non-standard implementation of Python
 		- use of `multiprocessing` package
 	- GIL limits 
-- The standard library has `threading` package
-- Starting a new thread `threading.Thread(target=function, args=...)`
+	- **main thread** – 
 - **deamon** – a "background thread"
 	- will be terminated when the main thread gets terminated
 	- `thread.join` has to be called explicitly to not terminate a deamon thread prematurely
@@ -26,6 +25,8 @@
 	- by default, messages are not flushed to stdout until an internal buffer is full
 	- can be forced with `flush=True`
 ### threading module objects
+- The standard library has `threading` package
+- Starting a new thread `threading.Thread(target=function, args=...)`
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
 	- `set` boolean flag
