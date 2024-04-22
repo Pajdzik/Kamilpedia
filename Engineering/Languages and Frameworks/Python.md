@@ -45,4 +45,4 @@
 - [Thread-Safe Print in Python](https://superfastpython.com/thread-safe-print-in-python/)
 
 # Documents
-- [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)\
+- [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
