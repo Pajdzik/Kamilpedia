@@ -44,6 +44,11 @@ logging.basicConfig(
 - `threading.RLock`
 		- can be acquired multiple times
 		- useful for recursive execution and publicly available methods that overlap in functionality
+### References
+- [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
+- [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
+- [Thread-Safe Print in Python](https://superfastpython.com/thread-safe-print-in-python/)
+
 ## asyncio
 - `async` keyword
 	- makes the function a coroutine
@@ -60,11 +65,9 @@ logging.basicConfig(
 - `TaskGroup` can automatically group multiple tasks and implicitly wait on them
 ### aiohttp
 - HTTP client and server working with asyncio
-- 
+### References
+- [Intro to aiohttp¶](https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_intro.html#intro-to-aiohttp)
 ## References
-- [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
-- [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
-- [Thread-Safe Print in Python](https://superfastpython.com/thread-safe-print-in-python/)
 
 # Documents
 - [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)

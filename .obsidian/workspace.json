@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ecd17e20f1df49c",
@@ -167,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8b093700482e930",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
     "Engineering/Languages and Frameworks/Python.md",
     "Interview/Algorithms & data structure.md",
