@@ -44,8 +44,12 @@ logging.basicConfig(
 - `threading.RLock`
 		- can be acquired multiple times
 		- useful for recursive execution and publicly available methods that overlap in functionality
- 
- ## References
+
+## Futures
+### aiohttp
+- HTTP client and server working with asyncio
+- 
+## References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
 - [Thread-Safe Print in Python](https://superfastpython.com/thread-safe-print-in-python/)
