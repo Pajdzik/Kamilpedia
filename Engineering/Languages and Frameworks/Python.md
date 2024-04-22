@@ -44,8 +44,20 @@ logging.basicConfig(
 - `threading.RLock`
 		- can be acquired multiple times
 		- useful for recursive execution and publicly available methods that overlap in functionality
-
-## Futures
+## asyncio
+- `async` keyword
+	- makes the function a coroutine
+		- can't call the function like a regular function
+		- can be run with:
+			- `asyncio.run(f())`
+			- `await f()`
+			- `asyncio.create_task` and awaiting it
+- `gather` returns a `Future` instance that can be awaited
+	- `Task.all` from JavaScript (?)
+	- terminates early when there an exception happens
+- `wait` provides more granularity e.g. waiting until the first task is finished
+	- by default does not terminate early in case of an exception, but can be changed by setting `return_when=asyncio.FIRST_EXCEPTION` flag
+- `TaskGroup` can automatically group multiple tasks and implicitly wait on them
 ### aiohttp
 - HTTP client and server working with asyncio
 - 
