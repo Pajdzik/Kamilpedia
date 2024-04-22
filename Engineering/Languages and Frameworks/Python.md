@@ -24,6 +24,12 @@
 - `print` function is _not_ thread safe
 	- by default, messages are not flushed to stdout until an internal buffer is full
 	- can be forced with `flush=True`
+- logging; useful format
+```python
+logging.basicConfig(
+    format="%(relativeCreated)6d %(threadName)s %(message)s", level=logging.DEBUG
+)
+```
 ### threading module objects
 - The standard library has `threading` package
 - Starting a new thread `threading.Thread(target=function, args=...)`
