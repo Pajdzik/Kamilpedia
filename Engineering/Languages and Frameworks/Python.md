@@ -9,7 +9,7 @@
 		- use of `multiprocessing` package
 	- GIL limits 
 	- **main thread** – 
-- **deamon** – a "background thread"
+- **daemon** – a "background thread"
 	- will be terminated when the main thread gets terminated
 	- `thread.join` has to be called explicitly to not terminate a deamon thread prematurely
 - **`ThreadPoolExecutor`** – an easier way to spawn threads
