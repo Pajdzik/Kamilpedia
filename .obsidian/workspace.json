@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/System design/Exercise/ChatGPT.md",
+                "file": "Interview/System design/Exercise/Generative AI chat.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/System design/Exercise/ChatGPT.md",
+                "file": "Interview/System design/Exercise/Generative AI chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/System design/Exercise/ChatGPT.md",
+                "file": "Interview/System design/Exercise/Generative AI chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/System design/Exercise/ChatGPT.md"
+                "file": "Interview/System design/Exercise/Generative AI chat.md"
               }
             }
           }
@@ -171,7 +171,7 @@
   "active": "e8b093700482e930",
   "lastOpenFiles": [
     "Interview/System design/System design.md",
-    "Interview/System design/Exercise/ChatGPT.md",
+    "Interview/System design/Exercise/Generative AI chat.md",
     "Interview/System design/Exercise",
     "Interview/System design",
     "Engineering/Languages and Frameworks/Python.md",

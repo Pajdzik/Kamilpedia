@@ -9,6 +9,8 @@ Design a system similar to ChatGPT, a chatbot platform powered a backend AI mode
 - The system should incorporate content filtering capability
 # Solution
 ## API
-- `GET /user/:user-id/conversation` – Lists user's past conversations
-	- takes user's ID as an URL parameter
+- `GET /conversation` – lists user's past conversations
+	- takes user's ID from the auth token
+	- returns a list of `{ conversation_id, title, summary }`
+- `POST /conversation` – creates a new conversation
 - 
