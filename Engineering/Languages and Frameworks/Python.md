@@ -45,7 +45,7 @@ logging.basicConfig(
 		- can be acquired multiple times
 		- useful for recursive execution and publicly available methods that overlap in functionality
 ### References
-- [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
+- [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/)
 - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
 - [Thread-Safe Print in Python](https://superfastpython.com/thread-safe-print-in-python/)
 
@@ -67,6 +67,8 @@ logging.basicConfig(
 - HTTP client and server working with asyncio
 ### References
 - [Intro to aiohttp¶](https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_intro.html#intro-to-aiohttp)
+- [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
+  
 ## References
 
 # Documents
