@@ -8,4 +8,6 @@
 
 # Front end
 - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
-- 
+
+# References
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
