@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ecd17e20f1df49c",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md",
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md",
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md"
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md"
               }
             }
           }
@@ -168,13 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8b093700482e930",
+  "active": "b06431a6a28dd351",
   "lastOpenFiles": [
-    "Interview/System design/System design.md",
+    "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
+    "Engineering/Languages and Frameworks/JavaScript/Promises.md",
+    "Engineering/Languages and Frameworks/JavaScript",
+    "Engineering/Languages and Frameworks/Python.md",
     "Interview/System design/Exercise/Generative AI chat.md",
+    "Interview/System design/System design.md",
     "Interview/System design/Exercise",
     "Interview/System design",
-    "Engineering/Languages and Frameworks/Python.md",
     "Interview/Algorithms & data structure.md",
     "Engineering/Finance/Accounting.md",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation.md",
@@ -207,14 +208,11 @@
     "Software/WireGuard.md",
     "Engineering/Tools/VMs.md",
     "Software/Docker.md",
-    "Engineering/Languages and Frameworks/JavaScript.md",
     "Engineering/Tools/Shell.md",
     "Engineering/Technology/Unicode.md",
     "Engineering/Technology",
     "Engineering/AI/Image generation.md",
     "Engineering/Tools/npm.md",
-    "Software/Home assistant.md",
-    "Interview/General.md",
-    "Engineering/Languages and Frameworks"
+    "Software/Home assistant.md"
   ]
 }
