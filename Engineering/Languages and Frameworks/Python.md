@@ -68,6 +68,7 @@ logging.basicConfig(
 ### References
 - [Intro to aiohttp¶](https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_intro.html#intro-to-aiohttp)
 - [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
+- [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
   
 ## References
 
