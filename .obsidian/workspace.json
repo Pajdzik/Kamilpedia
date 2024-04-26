@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b06431a6a28dd351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8b093700482e930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
+                "file": "Engineering/Languages and Frameworks/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md"
+                "file": "Engineering/Languages and Frameworks/Python.md"
               }
             }
           }
@@ -166,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b06431a6a28dd351",
+  "active": "e8b093700482e930",
   "lastOpenFiles": [
-    "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
+    "Interview/System design/Exercise/Generative AI chat.md",
     "Engineering/Languages and Frameworks/JavaScript/Promises.md",
+    "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "Engineering/Languages and Frameworks/JavaScript",
     "Engineering/Languages and Frameworks/Python.md",
-    "Interview/System design/Exercise/Generative AI chat.md",
     "Interview/System design/System design.md",
     "Interview/System design/Exercise",
     "Interview/System design",

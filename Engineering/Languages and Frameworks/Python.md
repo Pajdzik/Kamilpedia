@@ -44,6 +44,7 @@ logging.basicConfig(
 - `threading.RLock`
 		- can be acquired multiple times
 		- useful for recursive execution and publicly available methods that overlap in functionality
+- `threading.main_thread()` gives one access to the main thread
 ### References
 - [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/
 - [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html#module-threading)
