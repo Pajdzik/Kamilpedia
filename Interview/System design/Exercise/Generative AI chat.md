@@ -13,4 +13,5 @@ Design a system similar to ChatGPT, a chatbot platform powered a backend AI mode
 	- takes user's ID from the auth token
 	- returns a list of `{ conversation_id, title, summary }`
 - `POST /conversation` – creates a new conversation
-- 
+- `GET /conversation/{uuid}` – retrieves a conversation
+- `POST /conversation/{uuid}/message` – adds a message to a conversation

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Interview/System design/System design.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ecd17e20f1df49c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Interview/System design/System design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Interview/System design/System design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md"
+                "file": "Interview/System design/System design.md"
               }
             }
           }
@@ -157,10 +158,11 @@
   "active": "e8b093700482e930",
   "lastOpenFiles": [
     "Interview/System design/Exercise/Generative AI chat.md",
+    "Engineering/Languages and Frameworks/Python.md",
+    "Engineering/Tools/Other tools.md",
     "Engineering/Languages and Frameworks/JavaScript/Promises.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "Engineering/Languages and Frameworks/JavaScript",
-    "Engineering/Languages and Frameworks/Python.md",
     "Interview/System design/System design.md",
     "Interview/System design/Exercise",
     "Interview/System design",
@@ -200,7 +202,6 @@
     "Engineering/Technology/Unicode.md",
     "Engineering/Technology",
     "Engineering/AI/Image generation.md",
-    "Engineering/Tools/npm.md",
-    "Software/Home assistant.md"
+    "Engineering/Tools/npm.md"
   ]
 }
