@@ -124,7 +124,9 @@
 			- List of data types to store
 			- Access patterns for these data types
 			- Scale of the data and requests the system needs to serve
-	3. Design
+		- Structured data vs unstructured data vs blobs
+		- REST vs GraphQL vs RPC vs WebSockets etc.
+	1. Design
 		- **Goal**:
 			- Define data storage
 			- Define services and interactions between them
