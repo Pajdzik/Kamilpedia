@@ -66,7 +66,8 @@
 	- arbitrary chosen key to route to a particular server behind the load balancer
 ## Caching
 - cache-aside pattern
-	- 
+	- cache side-by-side with database
+- 
 # A Senior Engineer's Guide to the System Design Interview – Notes
 - Don’t think like a coder. Think like a Tech Lead.
 - There are no optimal solutions in system design interviews.
