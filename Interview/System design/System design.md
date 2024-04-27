@@ -98,7 +98,28 @@
 	- what type of traffic can it expect?
 	- what limits will it have?
 - **why** is more important than **what**
-- 
+- Three steps:
+	1. Requirements
+		- **Goal**: List of functional and non-functional requirements
+		- Ask questions
+		- Start with functional requirements first
+		- Treat the system as a black box (don't dive into design itself)
+		- Identify main business objects
+		- Think about the access patterns
+			- List all the operations thay may be need to design the system
+			- Think if ranking elements is needed
+		- Think about mutability
+			- edits
+			- deletions
+	1. Data types, API, and scale
+		- **Goal**:
+			- List of data types to store
+			- Access patterns for these data types
+			- Scale of the data and requests the system needs to serve
+	2. Design
+		- **Goal**:
+			- Define data storage
+			- Define services and interactions between them
 # References
 - [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 - https://github.com/donnemartin/system-design-primer

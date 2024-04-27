@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/System design/System design.md",
+                "file": "Interview/System design/Exercise/Generative AI chat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0d5981613118759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/System design/System design.md",
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/System design/System design.md",
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/System design/System design.md"
+                "file": "Engineering/Languages and Frameworks/JavaScript/Promises.md"
               }
             }
           }
@@ -155,15 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8b093700482e930",
+  "active": "e0d5981613118759",
   "lastOpenFiles": [
     "Interview/System design/Exercise/Generative AI chat.md",
+    "Interview/System design/System design.md",
     "Engineering/Languages and Frameworks/Python.md",
     "Engineering/Tools/Other tools.md",
     "Engineering/Languages and Frameworks/JavaScript/Promises.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "Engineering/Languages and Frameworks/JavaScript",
-    "Interview/System design/System design.md",
     "Interview/System design/Exercise",
     "Interview/System design",
     "Interview/Algorithms & data structure.md",

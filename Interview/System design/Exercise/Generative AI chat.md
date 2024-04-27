@@ -7,6 +7,15 @@ Design a system similar to ChatGPT, a chatbot platform powered a backend AI mode
 - It should support up to 1000 concurrent users
 - it should store the past conversations
 - The system should incorporate content filtering capability
+
+## Objects
+- Account – user's account
+- Conversation – a group of messages, both prompts and response
+- Message – a single paragraph of text
+## Relationships
+- Account -> Conversation
+	- can start a conversation
+	- can list 
 # Solution
 ## API
 - `GET /conversation` – lists user's past conversations
