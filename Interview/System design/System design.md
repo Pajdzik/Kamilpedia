@@ -35,7 +35,15 @@
 	- column
 	- graph
 - on average perform better with writes and slower for reads
-### Scaling
+### IDs
+- Most popular types:
+	- auto-incremented
+	- UUID
+- Are they going to be publicly accessible? 
+- What should be the range? 
+- Security concerns
+- Should it be prepared to be printed
+## Scaling
 - vertical – more powerful single machine
 - horizontal – adding more independent machines
 ## CAP theorem
@@ -47,15 +55,18 @@
 - salting passwords
 - session tokens
 - JSON Web Tokens
-- 
-### IDs
-- Most popular types:
-	- auto-incremented
-	- UUID
-- Are they going to be publicly accessible? 
-- What should be the range? 
-- Security concerns
-- Should it be prepared to be printed
+	- can be signed or encrypted
+- cookies
+## Load balancers
+- types:
+	- round robin
+	- least connections 
+	- minimum response time
+- hashing
+	- arbitrary chosen key to route to a particular server behind the load balancer
+## Caching
+- cache-aside pattern
+	- 
 # A Senior Engineer's Guide to the System Design Interview – Notes
 - Don’t think like a coder. Think like a Tech Lead.
 - There are no optimal solutions in system design interviews.
