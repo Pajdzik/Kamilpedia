@@ -20,6 +20,33 @@
 ### SQL
 - most comprehensive query language
 - stronger ACID guarantees
+	- atomicity – transaction commits all or reverts
+	- consistency – leaves the data in the consistent state (this is more of an app property)
+	- isolation – one transaction does not affect another
+	- durability – when transaction commits, the data won't be lost
+- slower writes than NoSQL databases
+	- mostly uses B-Trees
+- strong consistency increases latency
+- works the best with well structured data
+### NoSQL
+- umbrella term for various styles of products
+	- key value
+	- document
+	- column
+	- graph
+- on average perform better with writes and slower for reads
+### Scaling
+- vertical – more powerful single machine
+- horizontal – adding more independent machines
+## CAP theorem
+- consistency
+- availability
+- partition tolerance
+## Security
+- hashing passwords
+- salting passwords
+- session tokens
+- JSON Web Tokens
 - 
 ### IDs
 - Most popular types:
