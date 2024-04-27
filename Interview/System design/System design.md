@@ -65,9 +65,31 @@
 - hashing
 	- arbitrary chosen key to route to a particular server behind the load balancer
 ## Caching
-- cache-aside pattern
-	- cache side-by-side with database
-- 
+- patterns
+	- cache-aside 
+		- cache side-by-side with database
+	- write-through 
+		- synchronous writing to the database through cache
+	- write-back
+		- asynchronous writing to the database through cache
+- invalidation
+	- LRU
+## Message queues
+- asynchronous messaging systems
+- useful in following scenarios:
+	- flattening spikes (queue has its own storage system)
+	- long running/expensive operations
+	- multiplexing
+- pub/sub model
+- properties (different per implementation):
+	- guaranteed delivery
+	- no duplicate messages
+	- keeping the order
+	- at least one delivery
+## Indexing
+- mapping data for faster retrieval
+## Failover
+## Replication
 # A Senior Engineer's Guide to the System Design Interview – Notes
 - Don’t think like a coder. Think like a Tech Lead.
 - There are no optimal solutions in system design interviews.
