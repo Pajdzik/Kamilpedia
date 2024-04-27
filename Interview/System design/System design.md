@@ -119,12 +119,12 @@
 			- availability
 				- can be affected if we care about strong consistency
 			- security
-	1. Data types, API, and scale
+	2. Data types, API, and scale
 		- **Goal**:
 			- List of data types to store
 			- Access patterns for these data types
 			- Scale of the data and requests the system needs to serve
-	2. Design
+	3. Design
 		- **Goal**:
 			- Define data storage
 			- Define services and interactions between them

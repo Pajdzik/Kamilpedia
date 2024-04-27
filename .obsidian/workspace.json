@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8b093700482e930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/System design/System design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e716420a7bca01e4",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4b253c1f928d58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/System design/System design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8b093700482e930",
+  "active": "c4b253c1f928d58d",
   "lastOpenFiles": [
     "Interview/System design/Exercise/Generative AI chat.md",
     "Interview/System design/System design.md",
