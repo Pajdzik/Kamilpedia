@@ -126,10 +126,13 @@
 			- Scale of the data and requests the system needs to serve
 		- Structured data vs unstructured data vs blobs
 		- REST vs GraphQL vs RPC vs WebSockets etc.
+		- Estimated requests per minute
+		- Estimated storage requirements
 	1. Design
 		- **Goal**:
 			- Define data storage
 			- Define services and interactions between them
+		- Start small
 # References
 - [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 - https://github.com/donnemartin/system-design-primer
