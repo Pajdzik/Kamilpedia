@@ -18,6 +18,8 @@
 - most complicated in the implementation
 ## Databases
 ### SQL
+- most comprehensive query language
+- stronger ACID guarantees
 - 
 ### IDs
 - Most popular types:
