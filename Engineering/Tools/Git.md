@@ -26,8 +26,10 @@
 ## Branches
 ### Links
 - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+## Config
+### Links
+- [Changing Email Addresses Globally](https://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_changing_email_addresses_globally) – useful when one forgets to set it up in the git config before starting to work
 ## HEAD
-### Notes
 - Three meanings
 	- `.git/HEAD` file
 		- name of the current branch

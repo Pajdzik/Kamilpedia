@@ -37,7 +37,7 @@ Design a system similar to ChatGPT, a chatbot platform powered a backend AI mode
 	- ID
 	- Message ID
 ## Access patterns
-A system like ChatGPT i
+A system like ChatGPT is more read-heave than write heavy. Message authoring is quite slow. On one side, there is a fairly slow, for an automated system, process of generating responses using the AI model. On the other, there is a manually written prompt. The messages can't be edit and will be read multiple times. 
 # Solution
 ## API
 - `GET /conversation` – lists user's past conversations

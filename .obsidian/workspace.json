@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md",
+                "file": "Interview/System design/System design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md",
+                "file": "Interview/System design/System design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/System design/Exercise/Generative AI chat.md"
+                "file": "Interview/System design/System design.md"
               }
             }
           }
@@ -168,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e716420a7bca01e4",
+  "active": "e8b093700482e930",
   "lastOpenFiles": [
-    "Interview/System design/System design.md",
     "Interview/System design/Exercise/Generative AI chat.md",
+    "Interview/System design/System design.md",
+    "Engineering/Tools/Git.md",
     "Engineering/Languages and Frameworks/JavaScript/Promises.md",
     "Engineering/Languages and Frameworks/Python.md",
     "Engineering/Tools/Other tools.md",
@@ -195,7 +195,6 @@
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation",
     "Articles/Finance",
     "Articles/Finance.md",
-    "Engineering/Tools/Git.md",
     "Articles/Programming/How HEAD works in git.md",
     "Articles/How HEAD works in git.md",
     "Articles/Programming",

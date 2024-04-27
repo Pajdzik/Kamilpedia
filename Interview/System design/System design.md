@@ -111,6 +111,14 @@
 		- Think about mutability
 			- edits
 			- deletions
+		- non-functional requirements:
+			- performance
+				- not every system has to be nearly real-time e.g. video processing service
+				- influenced by established access patterns
+				- hot-paths/warm-paths
+			- availability
+				- can be affected if we care about strong consistency
+			- security
 	1. Data types, API, and scale
 		- **Goal**:
 			- List of data types to store
