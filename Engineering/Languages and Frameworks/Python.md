@@ -1,6 +1,8 @@
 # GIL
 # Concurrency & threading
-## Notes
+## Process
+- Python process will terminate once all (non background threads) are terminated
+## Threads
 - **thread** – separate flow of execution
 	- in Python 3 (most implementations), threads do _not_ execute at the same time
 	- threads may be running on different processors, but only one is running at a time
