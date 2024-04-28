@@ -11,14 +11,16 @@
 		- use of `multiprocessing` package
 	- GIL limits 
 	- **main thread** – 
+- Starting a new thread `threading.Thread(target=function, args=...)`
+- can be `alive` or `dead`; can be checked with `is_alive()` method
 - **daemon** – a "background thread"
+	- set up by `deamon` property on a thread
 	- will be terminated when the main thread gets terminated
 	- `thread.join` has to be called explicitly to not terminate a deamon thread prematurely
 - **`ThreadPoolExecutor`** – an easier way to spawn threads
 	- part of `concurrent.futures`
 	- can be used with `with` statement to automatically clean the threads up
 	- `thread.join` is handled "automatically"
--  synchronization can be achieved with `Lock` object
 - `queue.Queue` 
 	- [docs](https://docs.python.org/3/library/queue.html#module-queue)
 	- multi-consumer <=> multi-producer queue
@@ -32,9 +34,11 @@ logging.basicConfig(
     format="%(relativeCreated)6d %(threadName)s %(message)s", level=logging.DEBUG
 )
 ```
+- `native_id` – unique OS identifier (different each run)
+
 ### threading module objects
 - The standard library has `threading` package
-- Starting a new thread `threading.Thread(target=function, args=...)`
+- synchronization can be achieved with `Lock` object
 - `threading.event`
 	- [docs](https://docs.python.org/3/library/threading.html#event-objects)
 	- `set` boolean flag
