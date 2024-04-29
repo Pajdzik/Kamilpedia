@@ -1,0 +1,2 @@
+- https://www.deeplearningbook.org/
+- https://spinningup.openai.com/en/latest/
