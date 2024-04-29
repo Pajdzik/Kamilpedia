@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Interview/System design/Exercise/Generative AI chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Interview/System design/Exercise/Generative AI chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md"
+                "file": "Interview/System design/Exercise/Generative AI chat.md"
               }
             }
           }
@@ -180,13 +179,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f6771c6b8b25c29e",
+  "active": "e716420a7bca01e4",
   "lastOpenFiles": [
+    "Engineering/Languages and Frameworks/Python.md",
     "Interview/System design/System design.md",
     "Engineering/Tools/Git.md",
     "Interview/System design/Exercise/Generative AI chat.md",
     "Engineering/Languages and Frameworks/JavaScript/Promises.md",
-    "Engineering/Languages and Frameworks/Python.md",
     "Engineering/Tools/Other tools.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "Engineering/Languages and Frameworks/JavaScript",
