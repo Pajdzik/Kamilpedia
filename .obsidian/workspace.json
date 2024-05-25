@@ -181,6 +181,10 @@
   },
   "active": "c4b253c1f928d58d",
   "lastOpenFiles": [
+    "Engineering/Technology/Raspberry Pi.md",
+    "Engineering/Cloud pattterns/Distributed systems.md",
+    "Articles/Whitepapers/to do.md",
+    "Articles/Whitepapers",
     "Engineering/AI/Learning resources.md",
     "Engineering/Security/Security.md",
     "Engineering/Security",
@@ -218,14 +222,10 @@
     "Engineering/Untitled.md",
     "Engineering/Finance",
     "Home/HVAC.md",
-    "Home",
     "Engineering/Languages and Frameworks/OCaml.md",
     "Engineering/Technology/Postgres.md",
     "Engineering/Languages and Frameworks/Node.js.md",
     "Software/Raspberry Pi.md",
-    "Software/WireGuard.md",
-    "Engineering/Tools/VMs.md",
-    "Software/Docker.md",
-    "Engineering/Tools/Shell.md"
+    "Software/WireGuard.md"
   ]
 }
