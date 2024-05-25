@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Python.md",
+                "file": "Engineering/Tools/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Security/Security.md",
+                "file": "Engineering/Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Security/Security.md",
+                "file": "Engineering/Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Security/Security.md"
+                "file": "Engineering/Tools/Git.md"
               }
             }
           }
@@ -179,19 +179,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4b253c1f928d58d",
+  "active": "f6771c6b8b25c29e",
   "lastOpenFiles": [
+    "Engineering/Languages and Frameworks/Python.md",
+    "Engineering/Security/Security.md",
     "Engineering/Technology/Raspberry Pi.md",
     "Engineering/Cloud pattterns/Distributed systems.md",
     "Articles/Whitepapers/to do.md",
     "Articles/Whitepapers",
     "Engineering/AI/Learning resources.md",
-    "Engineering/Security/Security.md",
     "Engineering/Security",
     "Engineering/AI/Image generation.md",
     "Interview/System design/System design.md",
     "Interview/System design/Exercise/Generative AI chat.md",
-    "Engineering/Languages and Frameworks/Python.md",
     "Engineering/Tools/Git.md",
     "Engineering/Languages and Frameworks/JavaScript/Promises.md",
     "Engineering/Tools/Other tools.md",

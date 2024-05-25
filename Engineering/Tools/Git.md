@@ -20,7 +20,6 @@
 ### Links
 - https://www.freecodecamp.org/news/git-rebase-handbook/
 
-
 # Concepts
 
 ## Branches
@@ -59,5 +58,7 @@
 - [git branchless](https://github.com/arxanas/git-branchless)
 - 
 # Links
-- [# Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
-- 
+- [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+- [Notes on git's error messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
+### Talks
+- [So You Think You Know Git Part 2 - DevWorld 2024](https://www.youtube.com/watch?v=Md44rcw13k4)
