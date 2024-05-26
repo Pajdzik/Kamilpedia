@@ -23,3 +23,4 @@
 23. [GoTo Considered Harmful: Understand why GoTo statements are problematic](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 24. [Raft Consensus Algorithm: To learn about the more understandable consensus algorithm](https://raft.github.io/raft.pdf)
 25. [Time Clocks and Ordering of Events: Explains the concept of time and event ordering](https://amturing.acm.org/p558-lamport.pdf)
+26. [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
