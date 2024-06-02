@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Elm.md",
+                "file": "Engineering/Cloud pattterns/Key-value storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Elm.md",
+                "file": "Engineering/Cloud pattterns/Key-value storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Elm.md",
+                "file": "Engineering/Cloud pattterns/Key-value storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Languages and Frameworks/Elm.md"
+                "file": "Engineering/Cloud pattterns/Key-value storage.md"
               }
             }
           }
@@ -193,15 +193,16 @@
   },
   "active": "3c97c212d70d976e",
   "lastOpenFiles": [
-    "Articles/Whitepapers/to do.md",
+    "Engineering/Cloud pattterns/Distributed systems.md",
+    "Engineering/Cloud pattterns/Key-value storage.md",
     "Engineering/Languages and Frameworks/Elm.md",
+    "Articles/Whitepapers/to do.md",
     "Obsidian.md",
     "Untitled.md",
     "Engineering/Tools/Git.md",
     "Engineering/Languages and Frameworks/Python.md",
     "Engineering/Security/Security.md",
     "Engineering/Technology/Raspberry Pi.md",
-    "Engineering/Cloud pattterns/Distributed systems.md",
     "Articles/Whitepapers",
     "Engineering/AI/Learning resources.md",
     "Engineering/Security",
@@ -237,7 +238,6 @@
     "Engineering/Untitled.md",
     "Engineering/Finance",
     "Home/HVAC.md",
-    "Engineering/Languages and Frameworks/OCaml.md",
-    "Engineering/Technology/Postgres.md"
+    "Engineering/Languages and Frameworks/OCaml.md"
   ]
 }
