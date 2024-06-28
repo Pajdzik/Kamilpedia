@@ -11,11 +11,14 @@
 ## commit
 - When committing, Git creates a new tree object with representation of the state of the repository at the time
 
+## merge
+- `them` – is the other branch you merged in
 ## merge-base
 - `git merge-base main mybranch`
 - gives us the “base” commit where our branch branched off
 
 ## rebase
+- `them` - the branch that you were on when you ran `git rebase`
 
 ### Links
 - https://www.freecodecamp.org/news/git-rebase-handbook/
