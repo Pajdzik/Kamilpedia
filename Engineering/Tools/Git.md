@@ -11,6 +11,9 @@
 ## commit
 - When committing, Git creates a new tree object with representation of the state of the repository at the time
 
+## log
+- `git log @ ^main --oneline --graph` – instructs git to show only the commits that exist on `feat_branch` but not on `main`
+
 ## merge
 - `them` – is the other branch you merged in
 ## merge-base
@@ -22,6 +25,7 @@
 
 ### Links
 - https://www.freecodecamp.org/news/git-rebase-handbook/
+- [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
 
 # Concepts
 
