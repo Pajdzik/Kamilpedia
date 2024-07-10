@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".c",
+                "query": "tag:#ChineseCuisine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c97c212d70d976e",
+  "active": "33d5b8dec6070b05",
   "lastOpenFiles": [
     "Recipes/Shops.md",
     "Recipes/Sauces/Spicy black vinegar soy sauce.md",

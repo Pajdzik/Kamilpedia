@@ -5,3 +5,5 @@
 - 2 teaspoons red chili flake
 # Steps:
 1. Mix all ingredients in a bowl.
+# Tags
+#ChineseCuisine #SoupDumplings #DippingSauce #BlackVinegar #SoySauce #SpicySauce #AsianCondiment
