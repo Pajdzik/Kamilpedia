@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces/Seasoned Soy Sauce.md",
+                "file": "Recipes/Dough/Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ChineseCuisine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Sauces/Seasoned Soy Sauce.md",
+                "file": "Recipes/Dough/Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Sauces/Seasoned Soy Sauce.md",
+                "file": "Recipes/Dough/Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Sauces/Seasoned Soy Sauce.md"
+                "file": "Recipes/Dough/Process.md"
               }
             }
           }
@@ -157,11 +157,17 @@
   },
   "active": "3c97c212d70d976e",
   "lastOpenFiles": [
-    "Recipes/Sauces/Spicy black vinegar soy sauce.md",
+    "Recipes/Dough/Dumpling Wrapper Dough.md",
+    "Recipes/Appetizer/Crab and Pork Soup Dumplings.md",
+    "Recipes/Appetizer/Taro Root, Water Chestnut, and Mushroom Soup Dumpling.md",
+    "Recipes/Sauces/Untitled.md",
+    "Recipes/Appetizer",
+    "Recipes/Untitled.md",
     "Recipes/Sauces/Seasoned Soy Sauce.md",
+    "Recipes/Sauces/Spicy black vinegar soy sauce.md",
     "Recipes/Shops.md",
     "Recipes/Sauces",
-    "Recipes/Bread/Process.md",
+    "Recipes/Dough/Process.md",
     "Engineering/Cloud pattterns/Queues.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "conflict-files-obsidian-git.md",
@@ -169,7 +175,7 @@
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity.md",
     "Engineering/Tools/Git.md",
-    "Recipes/Bread",
+    "Recipes/Dough",
     "Recipes",
     "Engineering/Security/Security.md",
     "Interview/System design/Exercise/Generative AI chat.md",
@@ -185,14 +191,9 @@
     "Engineering/AI/Learning resources.md",
     "Engineering/Security",
     "Engineering/AI/Image generation.md",
-    "Interview/System design/System design.md",
-    "Engineering/Languages and Frameworks/JavaScript/Promises.md",
-    "Engineering/Tools/Other tools.md",
     "Engineering/Languages and Frameworks/JavaScript",
     "Interview/System design/Exercise",
     "Interview/System design",
-    "Interview/Algorithms & data structure.md",
-    "Engineering/Finance/Accounting.md",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/3088280515ab5b6da599edd5a1b2ca30100f2b0b.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/18b769f7a3cdf7fd67a983d3a39325b563d8d346.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/54633827be99c315dc937778221752b848411ca9.png",
@@ -201,7 +202,6 @@
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/1672e121ec80f8fcdb158bb497e05e6dc809dee5.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/1dc844e93000faa184bd3e1ec3e0cd4e1a9fb5fb.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/18524adffedac5e812eb65dcbb179b66b0ae9e53.png",
-    "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/458909db06c7f38f7896205f67d60397b292e7d9.png",
-    "Articles/Finance/The Double Entry Counting Method - Beancount Documentation"
+    "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/458909db06c7f38f7896205f67d60397b292e7d9.png"
   ]
 }
