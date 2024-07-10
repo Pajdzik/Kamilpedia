@@ -15,3 +15,6 @@
 # Steps
 1. Boil the sake, ginger coriander, peppercorn, bay leaf, chili pepper, and lemon slices until the alcohol burns out.
 1. Remove from heat and add the mirin and soy sauce. Steep or at least 30 minutes. - Strain before serving
+
+# Tags
+#TeriyakiSauce #Japanese #Sake #SoySauce #Mirin #Ginger #Spicy #GlutenFree #Vegan #Marinade #SoupDumplings
