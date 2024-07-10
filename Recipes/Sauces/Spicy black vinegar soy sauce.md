@@ -7,3 +7,5 @@
 1. Mix all ingredients in a bowl.
 # Tags
 #ChineseCuisine #SoupDumplings #DippingSauce #BlackVinegar #SoySauce #SpicySauce #AsianCondiment
+# Source
+Michelle Nguyen for "Chinese Soup Dumplings" in The Pantry

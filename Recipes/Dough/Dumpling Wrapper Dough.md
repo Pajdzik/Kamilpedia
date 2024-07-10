@@ -20,3 +20,5 @@ About 40 dumpling wrappers
 ## Tags
 
 #DumplingWrappers #ChineseCooking #HomemadeDough #DimSum #AsianCuisine
+# Source
+Michelle Nguyen for "Chinese Soup Dumplings" in The Pantry

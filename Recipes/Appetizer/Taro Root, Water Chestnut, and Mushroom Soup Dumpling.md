@@ -24,6 +24,10 @@ About 40 dumplings
 4. Heat a saute pan on high and add vegetable oil. Add the chopped scallion and ginger and stir-fry for about 20 seconds. Add the chopped water chestnuts and wood ear or shiitake mushrooms and stir-fry for another minute or so. Then turn the heat off and add mashed taro, chopped garlic chives, salt, ground white pepper and sesame oil. Stir and mix everything together until combined evenly. Let the filling mixture cool to room temperature.
 
 5. Place cooked vegetable mixture into a large mixing bowl and add the pork jelly. Mix with your hands. Set in the refrigerator until ready to wrap. Mixture must stay chilled to prevent the jelly from melting.
+
+7. Line 2 baking sheets with parchment paper and dust lightly with flour. Working with 1 dumpling wrapper at a time and keeping the rest covered, spoon a well-rounded tablespoon of the filling onto the center of the round. Using your fingers, pinch and pleat the dough around the filling, leaving a tiny steam vent at the top; transfer to the baking sheet. Repeat with the remaining dumpling wrappers and filling.
+   
+8. Fill a pot with 2 inches of water and bring to a boil. Arrange the dumplings in a bamboo steamer basket, lined with napa cabbage leaves, leaving at least 1 inch between them. Cover and steam over the boiling water until the dough is shiny and the filling is soupy, about 5-7 minutes. Serve right away while you steam the remaining dumplings.
 # Tags
 #ChineseCuisine
 #SoupDumplings
@@ -32,3 +36,5 @@ About 40 dumplings
 #MushroomRecipe
 #WaterChestnut
 #AsianAppetizer
+# Source
+Michelle Nguyen for "Chinese Soup Dumplings" in The Pantry

@@ -18,3 +18,5 @@
 
 # Tags
 #TeriyakiSauce #Japanese #Sake #SoySauce #Mirin #Ginger #Spicy #GlutenFree #Vegan #Marinade #SoupDumplings
+# Source
+Michelle Nguyen for "Chinese Soup Dumplings" in The Pantry
