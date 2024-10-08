@@ -10,3 +10,4 @@
 	- can be very large
 	- must be usable
 ### 1.1.1 Record Storage
+- obvious solution is to save data in files
