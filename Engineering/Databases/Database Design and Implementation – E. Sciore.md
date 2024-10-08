@@ -22,4 +22,4 @@
 ### 1.1.4 Memory Management
 - RAM is faster than flash memory which is faster than hard drives
 	-  RAM is about 1000 times faster than flash and 100,000 times faster than disk
-### 1.1.5 
+### 1.1.5 Usability
