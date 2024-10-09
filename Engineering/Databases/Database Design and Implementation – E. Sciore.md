@@ -1,4 +1,4 @@
-	# Chapter 1
+# Chapter 1
 ## 1.1 Why a Database System?
 - **database** – a collection of data stored on a computer
 	- typically organized into *records*
@@ -23,3 +23,6 @@
 - RAM is faster than flash memory which is faster than hard drives
 	-  RAM is about 1000 times faster than flash and 100,000 times faster than disk
 ### 1.1.5 Usability
+- data needs to be extractable
+- standard query language for relational databases is SQL
+## 1.2 The Derby Database System
