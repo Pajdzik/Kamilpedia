@@ -26,3 +26,6 @@
 - data needs to be extractable
 - standard query language for relational databases is SQL
 ## 1.2 The Derby Database System
+- `ij` – command line tool for the Darby database
+## 1.3 Database Engines
+- 
