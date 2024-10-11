@@ -28,4 +28,6 @@
 ## 1.2 The Derby Database System
 - `ij` – command line tool for the Darby database
 ## 1.3 Database Engines
-- 
+- ij consists of two parts
+	- user interface
+	- database engine
