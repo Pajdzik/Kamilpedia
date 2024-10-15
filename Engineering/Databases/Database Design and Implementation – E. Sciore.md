@@ -42,4 +42,6 @@ readable, and easily modifiable
 ## 1.6 Chapter Summary
 ## 1.7 Suggested Reading
 - https://en.wikipedia.org/w/index.php?title=Database&useskin=vector#History
-- 
+# Chapter 2 – JDBC
+- Java DataBase Connectivity
+- `java.sql` package
