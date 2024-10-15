@@ -31,3 +31,8 @@
 - ij consists of two parts
 	- user interface
 	- database engine
+## 1.4 The SimpleDB Database System
+- SimpleDB database system - small, easily
+readable, and easily modifiable
+- SimpleIJ – simplified version of `ij`
+- 
