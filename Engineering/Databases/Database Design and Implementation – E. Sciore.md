@@ -35,4 +35,11 @@
 - SimpleDB database system - small, easily
 readable, and easily modifiable
 - SimpleIJ – simplified version of `ij`
+## 1.5 The SimpleDB Version of SQL
+- SimpleDB does not implement the full SQL spec
+	- `select-from-where
+- no field renames
+## 1.6 Chapter Summary
+## 1.7 Suggested Reading
+- https://en.wikipedia.org/w/index.php?title=Database&useskin=vector#History
 - 
