@@ -1,0 +1,5 @@
+- [ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki)
+- [Curated ROM collection](http://web.archive.org/web/20221211164933/https://www.reddit.com/r/ANBERNIC/comments/rnq4g1/a_curated_and_scraped_rom_collection/)
+- [Platform Explorer ROMs Pack](https://docs.google.com/spreadsheets/d/1qe3vRUXWJxlsztp21Fpmq-yyWNdo-SzDl4i_PSkzbM0/edit?gid=0#gid=0)
+	- [Reddit](https://www.reddit.com/r/Roms/comments/x2cn29/platform_explorer_roms_pack_top_games_hacks/)
+	- 
