@@ -23,6 +23,8 @@
 ## rebase
 - `them` - the branch that you were on when you ran `git rebase`
 
+## worktree
+- [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 ### Links
 - https://www.freecodecamp.org/news/git-rebase-handbook/
 - [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
