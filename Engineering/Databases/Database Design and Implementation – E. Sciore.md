@@ -54,4 +54,5 @@ readable, and easily modifiable
 	- ResultSetMetadata
 ### 2.1.1 Connecting to a Database Engine
 - a client connects to a database by calling `connect` method on the `Driver`
+- each database engine has its own connection string syntax
 - 
