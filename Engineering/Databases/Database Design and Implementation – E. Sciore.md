@@ -45,3 +45,12 @@ readable, and easily modifiable
 # Chapter 2 – JDBC
 - Java DataBase Connectivity
 - `java.sql` package
+## 2.1. Basic JDBC
+- Five basic interfaces:
+	- Driver
+	- Connection
+	- Statement
+	- ResultSet
+	- ResultSetMetadata
+### 2.1.1 Connecting to a Database Engine
+- 

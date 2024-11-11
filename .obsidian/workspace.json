@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Tools/Git.md",
+                "file": "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Database Design and Implementation – E. Sciore"
             }
           }
         ],
@@ -190,7 +190,10 @@
   },
   "active": "2d7166b88a2704bd",
   "lastOpenFiles": [
+    "Interview/General.md",
     "Interview/Algorithms & data structure.md",
+    "Articles/Whitepapers/to do.md",
+    "Engineering/Tools/Git.md",
     "Software/ArkOS.md",
     "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
     "Obsidian.md",
@@ -219,11 +222,8 @@
     "Recipes/Sauces",
     "Engineering/Cloud pattterns/Queues.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
-    "conflict-files-obsidian-git.md",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity",
-    "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity.md",
-    "Engineering/Tools/Git.md",
     "Recipes/Dough",
     "Recipes",
     "Articles/Whitepapers",
