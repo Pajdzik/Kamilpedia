@@ -53,4 +53,4 @@ readable, and easily modifiable
 	- ResultSet
 	- ResultSetMetadata
 ### 2.1.1 Connecting to a Database Engine
-- 
+- a client connects to a database by calling 
