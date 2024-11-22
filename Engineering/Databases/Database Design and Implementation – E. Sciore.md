@@ -59,4 +59,6 @@ readable, and easily modifiable
 - N/A
 ### 2.1.3 SQL Exceptions
 - Possible exceptions:
+	- illformed SQL
+	- deadlock
 	- 
