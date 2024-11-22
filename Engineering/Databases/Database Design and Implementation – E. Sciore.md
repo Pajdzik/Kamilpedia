@@ -64,4 +64,4 @@ readable, and easily modifiable
 	- engine bug
 	- connection errors
 ### 2.1.4 Executing SQL Statements
-- 
+- connection ~ session
