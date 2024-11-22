@@ -61,4 +61,6 @@ readable, and easily modifiable
 - Possible exceptions:
 	- illformed SQL
 	- deadlock
-	- 
+	- engine bug
+	- connection errors
+- 
