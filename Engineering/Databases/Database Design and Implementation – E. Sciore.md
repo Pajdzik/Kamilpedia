@@ -63,4 +63,5 @@ readable, and easily modifiable
 	- deadlock
 	- engine bug
 	- connection errors
+### 2.1.4 Executing SQL Statements
 - 
