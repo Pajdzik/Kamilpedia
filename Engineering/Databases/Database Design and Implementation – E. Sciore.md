@@ -45,7 +45,7 @@ readable, and easily modifiable
 # Chapter 2 – JDBC
 - Java DataBase Connectivity
 - `java.sql` package
-## 2.1. Basic JDBC
+## 2.1 Basic JDBC
 - Five basic interfaces:
 	- Driver
 	- Connection
@@ -55,4 +55,8 @@ readable, and easily modifiable
 ### 2.1.1 Connecting to a Database Engine
 - a client connects to a database by calling `connect` method on the `Driver`
 - each database engine has its own connection string syntax
-- 
+### 2.1.2 Disconnecting to a Database Engine
+- N/A
+### 2.1.3 SQL Exceptions
+- Possible exceptions:
+	- 
