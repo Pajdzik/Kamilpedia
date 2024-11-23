@@ -57,6 +57,6 @@
 			- `Die` cause will be returned if an effect can't be executed synchronously
 	- `runPromise` executes a promise effect
 		- `runPromiseExit`
-	- `runFork` 
+	- `runFork` starts a fiber that can be observed or interrupted
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
