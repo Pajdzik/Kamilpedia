@@ -15,6 +15,18 @@
 	- not actually a function but a model of computations
 	- `Effect` can be executed by the `Effect Runtime System`
 		- ideally this happens in a single point e.g. `main`
+- Creation
+	- Effects don't throw
+		- Lack of checked exceptions
+		- type system forces to track and handle errors
+	- `Effect.succeed` and `Effect.fail` are used to represent the result
+	- Constant success effect: `const success = Effect.succeed(42)`
+		- `success: Effect<number, never, never>`
+			- returns `number`
+			- doesn't generate any errors
+			- doesn't take any parameters
+	- Failure: `Effect.fail`
+		- Doesn't limit the type to be of `Error`
 	- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
