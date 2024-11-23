@@ -76,4 +76,7 @@ readable, and easily modifiable
 ## 2.2 Advanced JDBC
 ### 2.2.1 Hiding the Driver
 - client connects by getting an instance of a `Driver` object and calling `connect`
-	- 
+	- can be abstracted with `DriverManager`
+- connection string can be abstracted with `DataSource`
+### 2.2.2 Explicit Transaction Handling
+- 
