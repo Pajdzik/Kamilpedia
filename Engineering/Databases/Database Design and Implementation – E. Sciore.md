@@ -70,3 +70,5 @@ readable, and easily modifiable
 ### 2.1.5 Result Sets
 - result of `executeQuery`
 - can be iterated with `next` method
+### 2.1.6 Using Query Metadata
+- 
