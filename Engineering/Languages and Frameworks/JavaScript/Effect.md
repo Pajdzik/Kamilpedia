@@ -35,10 +35,20 @@
 			- it should be certain that `Effect.sync` does not produce an error
 			- unexpected errors can be caught with `catchAllDefect`
 		- `try` will return an `UnknownException` when an exception happens
-			- To provide a more specific error, provide an `catch` method to map the error
+			- To provide a more specific error, provide an `catch` function to map the error
 	- Asynchronous operations
 		- `Promise` in regular JS
-			- problematic error handling, no types for errors
+			- problematic error handling, no types for errors by default
+		- `Effect.promise` and `tryPromise` wrap that for effect
+			- similar constructor to `Promise`
+			- `promise` does not `reject`
+			- similarly to `try`, `tryPromise` is used for promises that reject
+				- a `catch` function can be provided to map the errors
+		- `Effect.async` is used to wrap callback-style functions
+	- `Effect.suspend` delays the creation of an effect
+		- takes a thunk
+		- useful for functions with side-effects
+		- useful for circular dependencies (recursion)
 		- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
