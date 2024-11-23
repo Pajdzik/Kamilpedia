@@ -54,6 +54,9 @@
 - Running
 	- `runSync` executes an effect synchronously
 		- `runSyncExit` additionally returns the result as an `Exit`
-		- 
+			- `Die` cause will be returned if an effect can't be executed synchronously
+	- `runPromise` executes a promise effect
+		- `runPromiseExit`
+	- `runFork` 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
