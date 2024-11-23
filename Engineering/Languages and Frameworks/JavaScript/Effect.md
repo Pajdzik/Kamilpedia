@@ -28,6 +28,10 @@
 	- Failure: `Effect.fail`
 		- Doesn't limit the type to be of `Error`
 		- Recommended to include `_tag` field (Tagged Errors)
-	- 
+	- `thunk` is a function that takes no arguments and may return a value
+		- useful for delaying the computation
+		- synchronous operations can be modeled with `Effect.sync` or `Effect.try`
+			- it should be certain that `Effect.sync` does not produce an error
+		- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
