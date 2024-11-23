@@ -27,6 +27,7 @@
 			- doesn't take any parameters
 	- Failure: `Effect.fail`
 		- Doesn't limit the type to be of `Error`
+		- Recommended to include `_tag` field (Tagged Errors)
 	- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
