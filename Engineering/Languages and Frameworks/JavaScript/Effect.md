@@ -11,6 +11,8 @@
 	- `Effect<Success, Error, Requirements>`
 		- Requirements represent dependencies
 		- an equivalent of `(r: Context<Requirements>) => Success | Error`
-	- 
+	- not actually a function but a model of computations
+	- `Effect` can be executed by the `Effect Runtime System`
+		- ideally this happens in a single point e.g. `main`
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
