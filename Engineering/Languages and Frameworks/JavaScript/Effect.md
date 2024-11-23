@@ -47,8 +47,12 @@
 		- `Effect.async` is used to wrap callback-style functions
 	- `Effect.suspend` delays the creation of an effect
 		- takes a thunk
-		- useful for functions with side-effects
-		- useful for circular dependencies (recursion)
-		- 
+		- useful for 
+			- functions with side-effects
+			- circular dependencies (recursion)
+			- unifying return type
+- Running
+	- `runSync` executes an effect synchronously
+	- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
