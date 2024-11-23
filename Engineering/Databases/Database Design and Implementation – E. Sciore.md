@@ -73,4 +73,7 @@ readable, and easily modifiable
 ### 2.1.6 Using Query Metadata
 - `ResultSetMetaData`
 - describes the returned data in case input is dynamic
-- 
+## 2.2 Advanced JDBC
+### 2.2.1 Hiding the Driver
+- client connects by getting an instance of a `Driver` object and calling `connect`
+	- 
