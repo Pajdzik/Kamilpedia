@@ -58,5 +58,9 @@
 	- `runPromise` executes a promise effect
 		- `runPromiseExit`
 	- `runFork` starts a fiber that can be observed or interrupted
+		- good default option
+		- other `run*` functions are build on top of this one
+		- can/should be interrupted with `Fiber.interrupt`
+	- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
