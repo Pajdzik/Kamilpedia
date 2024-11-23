@@ -53,6 +53,7 @@
 			- unifying return type
 - Running
 	- `runSync` executes an effect synchronously
-	- 
+		- `runSyncExit` additionally returns the result as an `Exit`
+		- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
