@@ -71,4 +71,6 @@ readable, and easily modifiable
 - result of `executeQuery`
 - can be iterated with `next` method
 ### 2.1.6 Using Query Metadata
+- `ResultSetMetaData`
+- describes the returned data in case input is dynamic
 - 
