@@ -33,6 +33,12 @@
 			- useful for delaying the computation
 		- synchronous operations can be modeled with `Effect.sync` or `Effect.try`
 			- it should be certain that `Effect.sync` does not produce an error
+			- unexpected errors can be caught with `catchAllDefect`
+		- `try` will return an `UnknownException` when an exception happens
+			- To provide a more specific error, provide an `catch` method to map the error
+	- Asynchronous operations
+		- `Promise` in regular JS
+			- problematic error handling, no types for errors
 		- 
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
