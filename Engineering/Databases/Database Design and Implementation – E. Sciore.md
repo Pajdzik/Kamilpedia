@@ -79,4 +79,13 @@ readable, and easily modifiable
 	- can be abstracted with `DriverManager`
 - connection string can be abstracted with `DataSource`
 ### 2.2.2 Explicit Transaction Handling
-- 
+- JDBC runs a series of transactions
+- transaction = unit of work
+	- if an operation fails, all operation inside a transaction will fail
+- a transaction commits when its current unit of work has completed successfully
+	- all modification are made permanent
+	- locks are released
+	- new transaction is started
+- completed = committed or rolled back
+- transactions are implicit in basic JDBC
+	- the engine chooses when to start and end a transaction
