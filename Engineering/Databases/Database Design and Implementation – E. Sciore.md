@@ -69,4 +69,4 @@ readable, and easily modifiable
 	- statements also need to be closed
 ### 2.1.5 Result Sets
 - result of `executeQuery`
-- 
+- can be iterated with `next` method
