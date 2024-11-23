@@ -65,3 +65,8 @@ readable, and easily modifiable
 	- connection errors
 ### 2.1.4 Executing SQL Statements
 - connection ~ session
+- used to create statements
+	- statements also need to be closed
+### 2.1.5 Result Sets
+- result of `executeQuery`
+- 
