@@ -89,3 +89,6 @@ readable, and easily modifiable
 - completed = committed or rolled back
 - transactions are implicit in basic JDBC
 	- the engine chooses when to start and end a transaction
+- auto commit is a good default for JDBC
+	- one statement per transaction
+- 
