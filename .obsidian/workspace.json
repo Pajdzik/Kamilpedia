@@ -35,7 +35,8 @@
               "title": "Effect"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2b9e77415ddc5cc",
+  "active": "965d7853e9db4bcd",
   "lastOpenFiles": [
+    "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
     "Engineering/Languages and Frameworks/JavaScript/Effect.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
-    "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
     "Software/ArkOS.md",
     "Interview/General.md",
     "Interview/Algorithms & data structure.md",

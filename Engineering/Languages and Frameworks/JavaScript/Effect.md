@@ -61,6 +61,17 @@
 		- good default option
 		- other `run*` functions are build on top of this one
 		- can/should be interrupted with `Fiber.interrupt`
-	- 
+- Configuration
+	- `ConfigProvider` loads data from environmental variables
+	- Description
+		- instance of `Config`
+		- describes the shape of configuration
+	- Frontend
+		- Loads the data described by a `Config`
+	- Backend
+		- `ConfigProvider`
+		- engine that loads the data
+		- built-in provider to load from env variables
+		- can be customized by `Layer.setConfigProvider`
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
