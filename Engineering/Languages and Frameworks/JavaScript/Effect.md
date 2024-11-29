@@ -72,6 +72,6 @@
 		- `ConfigProvider`
 		- engine that loads the data
 		- built-in provider to load from env variables
-		- can be customized by `Layer.setConfigProvider`
+			- can be customized by `Layer.setConfigProvider `
 # References
 - [Getting Started](https://effect.website/docs/getting-started)
