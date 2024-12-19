@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Languages and Frameworks/JavaScript/Effect.md",
+                "file": "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effect"
+              "title": "Database Design and Implementation – E. Sciore"
             }
           }
         ],
@@ -190,8 +190,8 @@
   },
   "active": "965d7853e9db4bcd",
   "lastOpenFiles": [
-    "Untitled.md",
     "Engineering/Languages and Frameworks/JavaScript/Effect.md",
+    "Untitled.md",
     "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "Software/ArkOS.md",

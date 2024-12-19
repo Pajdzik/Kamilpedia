@@ -91,4 +91,6 @@ readable, and easily modifiable
 	- the engine chooses when to start and end a transaction
 - auto commit is a good default for JDBC
 	- one statement per transaction
-- 
+
+# Chapter 12 Indexing
+## 12.1 The Value of Indexing
