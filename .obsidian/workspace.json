@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ecd17e20f1df49c",
@@ -191,8 +190,9 @@
   },
   "active": "965d7853e9db4bcd",
   "lastOpenFiles": [
-    "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
+    "Untitled.md",
     "Engineering/Languages and Frameworks/JavaScript/Effect.md",
+    "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
     "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
     "Software/ArkOS.md",
     "Interview/General.md",
@@ -220,7 +220,6 @@
     "Recipes/Sauces/Spicy black vinegar soy sauce.md",
     "Recipes/Soups/Pork Jelly.md",
     "Recipes/Soups",
-    "Recipes/UntitledUntitled.md",
     "Recipes/Appetizer",
     "Recipes/Sauces",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
