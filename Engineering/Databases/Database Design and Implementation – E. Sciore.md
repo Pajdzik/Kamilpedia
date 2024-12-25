@@ -94,3 +94,4 @@ readable, and easily modifiable
 
 # Chapter 12 Indexing
 ## 12.1 The Value of Indexing
+- so far the assu
