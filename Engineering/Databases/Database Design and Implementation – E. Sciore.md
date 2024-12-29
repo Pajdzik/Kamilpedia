@@ -97,4 +97,9 @@ readable, and easily modifiable
 
 # Chapter 13 Materialization and Sorting
 ## 13.1 The Value of Materialization
+- So far every operator had a pipelined implementation
+	- one record processed at a time
+	- not saved
+	- recomputed if needed again
+- e.g. for a `group by` operator we could sort the interim results, store them in a temp table and group based on that table
 - 
