@@ -102,4 +102,6 @@ readable, and easily modifiable
 	- not saved
 	- recomputed if needed again
 - e.g. for a `group by` operator we could sort the interim results, store them in a temp table and group based on that table
+- can improve efficiency of a scan
+	- has overhead of writing to the temp table
 - 
