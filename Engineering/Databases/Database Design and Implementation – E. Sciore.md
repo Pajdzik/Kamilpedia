@@ -94,4 +94,7 @@ readable, and easily modifiable
 
 # Chapter 12 Indexing
 ## 12.1 The Value of Indexing
-- so far the assu
+
+# Chapter 13 Materialization and Sorting
+## 13.1 The Value of Materialization
+- 
