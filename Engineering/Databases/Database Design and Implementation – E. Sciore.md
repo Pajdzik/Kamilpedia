@@ -104,4 +104,6 @@ readable, and easily modifiable
 - e.g. for a `group by` operator we could sort the interim results, store them in a temp table and group based on that table
 - can improve efficiency of a scan
 	- has overhead of writing to the temp table
-- 
+## 13.2 Temporary Tables
+- materialized implementations store their input records in temporary tables
+- metadata 
