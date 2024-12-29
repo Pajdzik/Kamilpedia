@@ -106,4 +106,7 @@ readable, and easily modifiable
 	- has overhead of writing to the temp table
 ## 13.2 Temporary Tables
 - materialized implementations store their input records in temporary tables
-- metadata 
+- metadata of a temp table doesn't show up in the system catalog
+- db system removes temp tables when they're no longer needed
+- temp tables aren't protected by the recovery manager
+- 
