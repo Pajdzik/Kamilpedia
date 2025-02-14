@@ -3,6 +3,9 @@
 	- Winner: Broomfield, CO, US with 3102 hours of sunshine a year
 	- Runner up: Foggia, Italy with 2465 hours of sunshine a year
 - The Rainfall Royalty Award – For that location which sees the most showers (or where someone’s always carrying an umbrella).
+	- Winner: Renton, WA, US with 161 days a year with some kind of precipitation
+	- Runner up: Kent, WA, US with 155 days a year with some kind of precipitation
+	- Real runner up: 
 - The Frosty Frontier Award – For the spot that’s notorious for its chilly winters or dramatic seasonal changes.
 - The Southern Belle Award – For the team member hailing from the furthest south.
 - The North Star Award – For the hometown that’s the northernmost on the map.
