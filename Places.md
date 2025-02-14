@@ -6,7 +6,8 @@
 	- Winner: Co. Westmeath, Ireland with 167 days a year with some kind of precipitation
 	- Runner up: Renton, WA, US with 161 days a year with some kind of precipitation
 - The Frosty Frontier Award – For the spot that’s notorious for its chilly winters or dramatic seasonal changes.
-	- 
+	- Winner: Harrison Township, Michigan, US with an average of -6.6C (20F) in January
+	- Runner up : South Portland, Maine, US with an average of -4.4C (24F) in January
 - The Southern Belle Award – For the team member hailing from the furthest south.
 - The North Star Award – For the hometown that’s the northernmost on the map.
 - The Eastern Promise Award – For the person coming from the far east.
