@@ -21,7 +21,8 @@
 	- Winner: Mill Bay, BC, Canada with longitude of 123.55° W
 	- Runner up: Kent, WA with longitude of 122.23° W
 - The Heart of the Map Award – For the hometown that lands closest to the geographic center of your team’s locations.
-	- 
+	- Winner: Leighton Buzzard, UK with an average distance of 3755 km (2333 mi) to other cities
+	- Runner up: Co. Westmeath, Ireland with an average distance of 3760 km (2336 mi) to other cities
 - The Remote Ranger Award – For someone coming from a place that’s off the beaten path or in “the middle of nowhere.”
 	- Winner: Broomfield, Colorado, US being 1604 km (997 mi) from the closest city, Kent, WA
 	- Runner ups: Harrison Township, MI, US and South Portland, ME, US being 1026 km (638 mi) from each other
@@ -29,8 +30,11 @@
 	- Winner: Broomfield, Colorado, US at 1656 m (5,430 ft)
 	- Runner up: Harrison Township, Michigan, US at 176 m (577 ft)
 - Lowest
-	- Winner: Mill Bay, BC, Canada at 9 m (30 ft) above sea level
-	- Runner up: South Portland, Maine at 12 m (40 ft) above sea levl
+	- Winner: Mill Bay, BC, Canada at 9 m (30 ft) above the sea level
+	- Runner up: South Portland, Maine at 12 m (40 ft) above the sea level
+- I was sure you're going to win something so let's invent a category – for a place with the biggest Amazon office: (ew. airport)
+	- Winner: London, UK 
+	- Runner up: Franfurt, Germany
 
 # Cities
 - Harrison Township, Michigan, US
