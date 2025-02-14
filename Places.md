@@ -12,6 +12,7 @@
 	- Winner: Broomfield, Colorado with latitude of 39.97° N 
 	- Runner up: Foggia, Italy with latitude of 41.46° N
 - The North Star Award – For the hometown that’s the northernmost on the map.
+	- Winner: Szczecin, Poland with latitude of 53.42° N
 - The Eastern Promise Award – For the person coming from the far east.
 - The Wild, Wild West Award – For the team member whose town lies furthest to the west.
 - The Heart of the Map Award – For the hometown that lands closest to the geographic center of your team’s locations.
