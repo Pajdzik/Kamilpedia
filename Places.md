@@ -23,8 +23,10 @@
 - The Heart of the Map Award – For the hometown that lands closest to the geographic center of your team’s locations.
 	- 
 - The Remote Ranger Award – For someone coming from a place that’s off the beaten path or in “the middle of nowhere.”
-	- 
+	- Winner: Broomfield, Colorado, US with 1
 - The High Flyer Award – If someone’s hometown sits at the highest elevation, awarding those literal “high altitudes” (or even just the most lofty dreams)!
+	- Winner: Broomfield, Colorado, US at 1656 m (5,430 ft)
+	- Runner up: Harrison Township, Michigan, US
 
 # Cities
 - Harrison Township, Michigan, US
