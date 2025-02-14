@@ -18,7 +18,8 @@
 	- Winner: Chisinau, Moldova with longitude of 28.86° E
 	- Runner up: Foggia, Italy with longitude of 15.54° E
 - The Wild, Wild West Award – For the team member whose town lies furthest to the west.
-	- Winner: Mill Bay, BC, Canada with longitude of 
+	- Winner: Mill Bay, BC, Canada with longitude of 123.55° W
+	- 
 - The Heart of the Map Award – For the hometown that lands closest to the geographic center of your team’s locations.
 - The Remote Ranger Award – For someone coming from a place that’s off the beaten path or in “the middle of nowhere.”
 - The High Flyer Award – If someone’s hometown sits at the highest elevation, awarding those literal “high altitudes” (or even just the most lofty dreams)!
