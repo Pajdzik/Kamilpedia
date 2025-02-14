@@ -1,6 +1,7 @@
 # Awards
 - The Sunshine Superstar Award – For the hometown known for its clear skies and warmth.
-	- 
+	- Winner: Broomfield, CO, US with 248 days a year
+	- Runner up: 
 - The Rainfall Royalty Award – For that location which sees the most showers (or where someone’s always carrying an umbrella).
 - The Frosty Frontier Award – For the spot that’s notorious for its chilly winters or dramatic seasonal changes.
 - The Southern Belle Award – For the team member hailing from the furthest south.
