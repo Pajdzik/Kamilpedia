@@ -11,7 +11,7 @@
 
 
 Jamie - Harrison Township, Michigan, US
-Anita – 
+Anita – Castelgomberto, Italy
 Ben – London, UK
 Catalina - Chisinau, Moldova
 Courtney – Kent, WA, US
@@ -22,6 +22,6 @@ Steffi - Frankfurt, Germany
 Ada – Szczecin, Poland
 Diana – Renton, WA, US
 Harry - South Portland, Maine, US
-Jen – 
+Jen – Co. Westmeath, Ireland
 Marcos – London, UK
 Naomi - Broomfield, Colorado, US
