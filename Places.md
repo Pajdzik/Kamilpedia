@@ -28,6 +28,9 @@
 - The High Flyer Award – If someone’s hometown sits at the highest elevation, awarding those literal “high altitudes” (or even just the most lofty dreams)!
 	- Winner: Broomfield, Colorado, US at 1656 m (5,430 ft)
 	- Runner up: Harrison Township, Michigan, US at 176 m (577 ft)
+- Lowest
+	- Winner: Mill Bay, BC, Canada at 9 m (30 ft) above sea level
+	- Runner up: South Portland, Maine at 12 m (40 ft) above sea levl
 
 # Cities
 - Harrison Township, Michigan, US
