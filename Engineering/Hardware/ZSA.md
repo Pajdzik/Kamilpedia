@@ -11,4 +11,7 @@ From: https://www.reddit.com/r/ergodox/comments/10y8kwn/comment/j7x76in/
 - https://www.reddit.com/r/ergodox/comments/jiwkkh/left_side_of_ergodox_stopped_working/
 	- Replace TRRS cable
 	- TRRS port
-- 
+- https://www.reddit.com/r/ergodox/comments/qrj2eg/i_need_help_the_left_side_of_my_ergodox_is_not/
+	- flashing the firmware,
+	- replacing the MCP23017,
+	- replace the teensy.
