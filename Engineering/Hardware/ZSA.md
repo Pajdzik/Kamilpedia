@@ -17,4 +17,4 @@ From: https://www.reddit.com/r/ergodox/comments/10y8kwn/comment/j7x76in/
 	- replace the teensy.
 - https://www.reddit.com/r/ErgoDoxEZ/comments/n6et1e/original_ergodox_ez_dead_lefthand_side/
 	- connect left side before connecting the USB cable
-	- 
+- https://www.reddit.com/r/ergodox/comments/43xybt/left_hand_not_working/
