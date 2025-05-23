@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ZSA"
             }
+          },
+          {
+            "id": "d8a7364dc27c3d7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d3164bb846ba791",
+  "active": "d8a7364dc27c3d7f",
   "lastOpenFiles": [
     "Engineering/Hardware/Keyboards.md",
     "Engineering/Hardware/ZSA.md",
