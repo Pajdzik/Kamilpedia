@@ -1,2 +1,3 @@
+- Ask for no, don’t ask for yes ([source](obsidian://open?vault=Kamilpedia&file=Articles%2FWork%2FManager%20stuff%2FAsk%20for%20no%2C%20don%E2%80%99t%20ask%20for%20yes%20%E2%80%93%20Dan%20Moore!))
 - Would anything of value be lost? ([source](obsidian://open?vault=Kamilpedia&file=Articles%2FWork%2FManager%20stuff%2FRemoving%20stuff%20is%20never%20obvious%20yet%20often%20better))
 - 
