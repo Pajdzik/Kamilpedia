@@ -25,12 +25,14 @@
             "id": "d8a7364dc27c3d7f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Clippings/Removing stuff is never obvious yet often better.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Removing stuff is never obvious yet often better"
             }
           }
         ],
@@ -83,8 +85,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -188,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,6 +202,8 @@
   },
   "active": "d8a7364dc27c3d7f",
   "lastOpenFiles": [
+    "Clippings/Removing stuff is never obvious yet often better.md",
+    "Clippings",
     "Engineering/Hardware/Keyboards.md",
     "Engineering/Hardware/ZSA.md",
     "Places.md",
@@ -229,13 +234,11 @@
     "Recipes/Sauces/Yuzu-Ginger Soy Sauce.md",
     "Recipes/Appetizer/Chicken-Ginger Soup Dumplings.md",
     "Recipes/Appetizer/Crab and Pork Soup Dumplings.md",
-    "Recipes/Appetizer/Taro Root, Water Chestnut, and Mushroom Soup Dumpling.md",
     "Recipes/Soups",
     "Recipes/Appetizer",
     "Recipes/Sauces",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity",
-    "Recipes/Dough",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/3088280515ab5b6da599edd5a1b2ca30100f2b0b.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/18b769f7a3cdf7fd67a983d3a39325b563d8d346.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/54633827be99c315dc937778221752b848411ca9.png",
