@@ -1,0 +1,2 @@
+- Would anything of value be lost? ([source](obsidian://open?vault=Kamilpedia&file=Articles%2FWork%2FManager%20stuff%2FRemoving%20stuff%20is%20never%20obvious%20yet%20often%20better))
+- 
