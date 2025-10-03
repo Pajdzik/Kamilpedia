@@ -1,13 +1,14 @@
 ---
-title: "Removing stuff is never obvious yet often better"
-source: "https://www.gkogan.co/removing-stuff/"
+title: Removing stuff is never obvious yet often better
+source: https://www.gkogan.co/removing-stuff/
 author:
   - "[[Greg Kogan]]"
 published: 2024-08-25
 created: 2025-10-02
 description: "You know the nagging feeling that your product, project, or company has become more complicated than it needs to be? You can solve many problems and get better results by doing something unthinkable to many: removing parts that once seemed essential. My crusade against complexity continues with this short story"
 tags:
-  - "clippings"
+  - clippings
+  - manager
 ---
 You know the nagging feeling that your product, project, or company has become more complicated than it needs to be? You can solve many problems and get better results by doing something unthinkable to many: removing parts that once seemed essential. My [crusade against complexity](https://www.gkogan.co/would-anything-of-value-be-lost/) continues with this short story from [Pinecone](https://www.pinecone.io/?ref=gkogan.co).
 

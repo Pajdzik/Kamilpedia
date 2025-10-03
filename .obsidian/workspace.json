@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Removing stuff is never obvious yet often better.md",
+                "file": "Clippings/Work/Manager stuff/Removing stuff is never obvious yet often better.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,9 +200,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8a7364dc27c3d7f",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
-    "Clippings/Removing stuff is never obvious yet often better.md",
+    "Clippings/Work/Manager stuff",
+    "Clippings/Work",
+    "Clippings/Work/Manager stuff/Removing stuff is never obvious yet often better.md",
     "Clippings",
     "Engineering/Hardware/Keyboards.md",
     "Engineering/Hardware/ZSA.md",
@@ -233,12 +235,10 @@
     "Recipes/Sides",
     "Recipes/Sauces/Yuzu-Ginger Soy Sauce.md",
     "Recipes/Appetizer/Chicken-Ginger Soup Dumplings.md",
-    "Recipes/Appetizer/Crab and Pork Soup Dumplings.md",
     "Recipes/Soups",
     "Recipes/Appetizer",
     "Recipes/Sauces",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
-    "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/3088280515ab5b6da599edd5a1b2ca30100f2b0b.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/18b769f7a3cdf7fd67a983d3a39325b563d8d346.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/54633827be99c315dc937778221752b848411ca9.png",
