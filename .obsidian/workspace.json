@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "~ Highlights"
             }
+          },
+          {
+            "id": "624d516be5f6b71e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8a7364dc27c3d7f",
+  "active": "624d516be5f6b71e",
   "lastOpenFiles": [
     "Articles/Work/Manager stuff/Ask for no, don’t ask for yes – Dan Moore!.md",
     "Articles/Work/Manager stuff/~ Highlights.md",
