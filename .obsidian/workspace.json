@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Work/Manager stuff/2026-01-02. What Real Feedback Sounds Like.md",
+                "file": "Articles/Programming/2026-01-02. CSES - Competitive programming books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-02. What Real Feedback Sounds Like"
+              "title": "2026-01-02. CSES - Competitive programming books"
             }
           }
         ],
@@ -214,10 +214,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "624d516be5f6b71e",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
-    "Articles/Work/Manager stuff/~ Highlights.md",
     "Articles/Work/Manager stuff/2026-01-02. What Real Feedback Sounds Like.md",
+    "Articles/Programming/2026-01-02. CSES - Competitive programming books.md",
+    "Articles/Work/Manager stuff/~ Highlights.md",
     "Articles/Programming/How HEAD works in git.md",
     "Articles/Photography/2026-01-02. What an unprocessed photo looks like (Maurycy's blog).md",
     "Articles/Photography/What an unprocessed photo looks like (Maurycy's blog).md",
@@ -249,7 +250,6 @@
     "Engineering/Databases",
     "Recipes/Shops.md",
     "Recipes/Mains/Braised Pork Belly.md",
-    "Recipes/Soups/Slow Cooked Soup with Pork Bone, Carrot, Green Daikon.md",
     "Recipes/Mains",
     "Recipes/Sides",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
