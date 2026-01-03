@@ -83,7 +83,8 @@
           "title": "Bookmarks"
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "4e3dd8067b3f4ea8",
@@ -139,6 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -148,7 +150,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1614fc16ac101ac5",
+  "active": "6ab30dd11a6a7a2f",
   "lastOpenFiles": [
     "Engineering/Languages and Frameworks/Elm.md",
     "Engineering/Languages and Frameworks/Python.md",
