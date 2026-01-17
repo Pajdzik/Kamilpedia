@@ -53,13 +53,14 @@
             "id": "567427cbea068ca0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Articles/Untitled.base",
-                "viewName": "Table"
+                "file": "Articles/Programming/2024-03-31. How HEAD works in git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2024-03-31. How HEAD works in git"
             }
           }
         ],
@@ -182,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Untitled.base",
+                "file": "Articles/Programming/2024-03-31. How HEAD works in git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2024-03-31. How HEAD works in git"
             }
           },
           {
@@ -223,9 +224,12 @@
   },
   "active": "567427cbea068ca0",
   "lastOpenFiles": [
+    "Articles/Programming/How HEAD works in git.md",
+    "Articles/Programming/2024-03-31. How HEAD works in git.md",
+    "Articles/Programming/2026-01-16. It’s not wrong that \"🤦🏼‍♂️\".length == 7.md",
+    "Articles/Untitled.base",
     "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Articles/Bookmarks.md",
-    "Articles/Untitled.base",
     "Obsidian.md",
     "Articles/Bookmarks/i.md",
     "Articles/Bookmarks/Blisters & Bliss.md",
@@ -235,7 +239,6 @@
     "Articles/Programming/2026-01-02. CSES - Competitive programming books.md",
     "Articles/Work/Manager stuff/2026-01-02. What Real Feedback Sounds Like.md",
     "Articles/Work/Manager stuff/~ Highlights.md",
-    "Articles/Programming/How HEAD works in git.md",
     "Articles/Photography/2026-01-02. What an unprocessed photo looks like (Maurycy's blog).md",
     "Articles/Photography/What an unprocessed photo looks like (Maurycy's blog).md",
     "Clippings/2026-01-02 What an unprocessed photo looks like (Maurycy's blog).md",
@@ -256,8 +259,6 @@
     "Engineering/Projects",
     "Engineering/Untitled.md",
     "Engineering/Languages and Frameworks/JavaScript/Effect.md",
-    "Engineering/Languages and Frameworks/JavaScript/JavaScript.md",
-    "Software/ArkOS.md",
     "Engineering/Databases",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/3088280515ab5b6da599edd5a1b2ca30100f2b0b.png",
