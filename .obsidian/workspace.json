@@ -53,14 +53,13 @@
             "id": "567427cbea068ca0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Articles/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
-                "mode": "source",
-                "source": false
+                "file": "Articles/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -183,10 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/ArkOS.md"
+                "file": "Articles/Untitled.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ArkOS"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -200,11 +202,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +223,8 @@
   },
   "active": "567427cbea068ca0",
   "lastOpenFiles": [
+    "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Articles/Bookmarks.md",
-    "Articles/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Articles/Untitled.base",
     "Obsidian.md",
     "Articles/Bookmarks/i.md",

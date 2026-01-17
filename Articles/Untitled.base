@@ -3,4 +3,5 @@ formulas:
 views:
   - type: table
     name: Table
-    order: []
+    order:
+      - file.name
