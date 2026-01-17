@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Bookmarks.md",
+                "file": "Articles/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bookmarks"
+              "title": "2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop"
             }
           }
         ],
@@ -220,9 +220,10 @@
   },
   "active": "567427cbea068ca0",
   "lastOpenFiles": [
+    "Articles/Bookmarks.md",
+    "Articles/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Articles/Untitled.base",
     "Obsidian.md",
-    "Articles/Bookmarks.md",
     "Articles/Bookmarks/i.md",
     "Articles/Bookmarks/Blisters & Bliss.md",
     "Articles/Bookmarks",
