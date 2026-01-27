@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/History/2026-01-16. Fast · Patrick Collison.md",
+                "file": "Engineering/Tools/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16. Fast · Patrick Collison"
+              "title": "Docker"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/History/2026-01-16. Fast · Patrick Collison.md",
+                "file": "Engineering/Tools/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-16. Fast · Patrick Collison"
+              "title": "Outline of Docker"
             }
           },
           {
@@ -224,8 +224,9 @@
   },
   "active": "567427cbea068ca0",
   "lastOpenFiles": [
-    "Quick notes/Finted.md",
     "Articles/History/2026-01-16. Fast · Patrick Collison.md",
+    "Engineering/Tools/Docker.md",
+    "Quick notes/Finted.md",
     "Quick notes/Untitled.canvas",
     "Quick notes",
     "Articles/History",
@@ -259,7 +260,6 @@
     "Engineering/Hardware/ZSA.md",
     "Untitled.md",
     "Engineering/Databases/Database Design and Implementation – E. Sciore.md",
-    "Engineering/Projects/Keyboard.md",
     "Engineering/Hardware",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
     "Articles/Finance/The Double Entry Counting Method - Beancount Documentation/3088280515ab5b6da599edd5a1b2ca30100f2b0b.png",
