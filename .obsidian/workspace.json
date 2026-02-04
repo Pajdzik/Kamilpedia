@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Docker"
             }
+          },
+          {
+            "id": "36fb4fe0e032ba5e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "567427cbea068ca0",
+  "active": "36fb4fe0e032ba5e",
   "lastOpenFiles": [
     "Articles/History/2026-01-16. Fast · Patrick Collison.md",
     "Engineering/Tools/Docker.md",
