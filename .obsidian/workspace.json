@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
+                "file": "Articles/Tools/2022-02-04. Email explained from first principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop"
+              "title": "2022-02-04. Email explained from first principles"
             }
           }
         ],
@@ -238,6 +238,8 @@
   },
   "active": "36fb4fe0e032ba5e",
   "lastOpenFiles": [
+    "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
+    "Articles/Tools/2022-02-04. Email explained from first principles.md",
     "Articles/Computer Science/2026-02-04. Defeating Nondeterminism in LLM Inference.md",
     "Articles/Computer Science",
     "Articles/Tools/2026-02-04. An Excruciatingly Detailed Guide ToSSH (But Only The Things I Actually Find Useful).md",
@@ -259,7 +261,6 @@
     "Articles/Programming/How HEAD works in git.md",
     "Articles/Programming/2026-01-16. It’s not wrong that \"🤦🏼‍♂️\".length == 7.md",
     "Articles/Untitled.base",
-    "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Obsidian.md",
     "Articles/Bookmarks/i.md",
     "Articles/Bookmarks/Blisters & Bliss.md",
