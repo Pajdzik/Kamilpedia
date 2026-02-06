@@ -81,12 +81,14 @@
             "id": "d0d7d942c1b9953d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Articles/Programming/2022-02-05. Locking in WebKit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "2022-02-05. Locking in WebKit"
             }
           }
         ],
@@ -248,8 +250,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0d7d942c1b9953d",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
+    "Articles/Programming/2022-02-05. Locking in WebKit.md",
     "Articles/Programming/2026-02-04. Don't fall into the anti-AI hype - <antirez>.md",
     "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
     "Articles/Software & Tools/2026-02-04. Finding a Readwise Reader replacement  Duck Who Codes - Blog by Duc Nguyen.md",
@@ -284,7 +287,6 @@
     "Articles/Bookmarks/Blisters & Bliss.md",
     "Articles/Bookmarks",
     "Articles/Software Architecture/2026-01-12. Queueing – An interactive study of queueing strategies – Encore Blog.md",
-    "Recipes/Mains/Braised Pork Belly.md",
     "Articles/Photography",
     "~archive",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
