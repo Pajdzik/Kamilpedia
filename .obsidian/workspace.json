@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "2026-02-04. Pi The Minimal Agent Within OpenClaw"
             }
+          },
+          {
+            "id": "d0d7d942c1b9953d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,7 +248,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1069cd021f66dc7e",
+  "active": "d0d7d942c1b9953d",
   "lastOpenFiles": [
     "Articles/Programming/2026-02-04. Don't fall into the anti-AI hype - <antirez>.md",
     "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
