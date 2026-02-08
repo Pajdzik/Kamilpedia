@@ -20,79 +20,8 @@
               "icon": "lucide-file",
               "title": "ZSA"
             }
-          },
-          {
-            "id": "d8a7364dc27c3d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Work/Manager stuff/~ Highlights.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "~ Highlights"
-            }
-          },
-          {
-            "id": "624d516be5f6b71e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Bookmarks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "567427cbea068ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering/Tools/Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
-            "id": "36fb4fe0e032ba5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-04. Pi The Minimal Agent Within OpenClaw"
-            }
-          },
-          {
-            "id": "d0d7d942c1b9953d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Programming/2022-02-05. Locking in WebKit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2022-02-05. Locking in WebKit"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,11 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1069cd021f66dc7e",
+  "active": "0d3164bb846ba791",
   "lastOpenFiles": [
+    "Articles/Work/Manager stuff/~ Highlights.md",
+    "Articles/Bookmarks.md",
+    "Engineering/Tools/Docker.md",
+    "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
     "Articles/Programming/2022-02-05. Locking in WebKit.md",
     "Articles/Programming/2026-02-04. Don't fall into the anti-AI hype - <antirez>.md",
-    "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
     "Articles/Software & Tools/2026-02-04. Finding a Readwise Reader replacement  Duck Who Codes - Blog by Duc Nguyen.md",
     "Articles/Software & Tools/2026-02-04. Replacing Readwise with self hosted open source Wallabag with Obsidian Wallabag plugin.md",
     "Obsidian.md",
@@ -269,12 +201,10 @@
     "Articles/Software Architecture/2026-02-04. Concurrency Deep Dive Code Strategies for High Traffic Applications.md",
     "Articles/Software Architecture",
     "Articles/Software & Tools/2024-02-04. What Is ChatGPT Doing … and Why Does It Work?.md",
-    "Articles/Bookmarks.md",
     "Articles/History/2026-02-04. Fast · Patrick Collison.md",
     "Finance/Calculators and other tools.md",
     "Finance",
     "Articles/History/2026-01-16. Fast · Patrick Collison.md",
-    "Engineering/Tools/Docker.md",
     "Quick notes/Finted.md",
     "Quick notes/Untitled.canvas",
     "Quick notes",
@@ -286,7 +216,6 @@
     "Articles/Bookmarks/i.md",
     "Articles/Bookmarks/Blisters & Bliss.md",
     "Articles/Bookmarks",
-    "Articles/Software Architecture/2026-01-12. Queueing – An interactive study of queueing strategies – Encore Blog.md",
     "Articles/Photography",
     "~archive",
     "Articles/Finance/Silicon Valley’s Best Kept Secret Founder Liquidity/founder-liquidity-chart-1.png",
