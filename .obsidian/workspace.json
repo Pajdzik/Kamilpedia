@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Software & Tools/2026-02-17. CLI tricks every developer should know.md",
+                "file": "Articles/Whitepapers/to do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-17. CLI tricks every developer should know"
+              "title": "to do"
             }
           }
         ]
@@ -179,10 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1069cd021f66dc7e",
+  "active": "0d3164bb846ba791",
   "lastOpenFiles": [
-    "Articles/Software & Tools/2026-02-17. Build Your Own Redis with CC++  BuildYour Own Redis with CC++.md",
+    "Articles/Whitepapers/to do.md",
+    "Articles/Whitepapers/2022-02-17. Attention Is All You Need.md",
     "Articles/Software & Tools/2026-02-17. CLI tricks every developer should know.md",
+    "Articles/Software & Tools/2026-02-17. Build Your Own Redis with CC++  BuildYour Own Redis with CC++.md",
     "Engineering/Hardware/ZSA.md",
     "Articles/Work/Manager stuff/~ Highlights.md",
     "Articles/Bookmarks.md",
@@ -212,8 +214,6 @@
     "Quick notes/Untitled.canvas",
     "Quick notes",
     "Articles/History",
-    "Articles/Software & Tools/2024-03-31. How HEAD works in git.md",
-    "Articles/Programming/How HEAD works in git.md",
     "Articles/Untitled.base",
     "Articles/Bookmarks",
     "Articles/Photography",
