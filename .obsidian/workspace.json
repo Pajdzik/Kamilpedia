@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Software & Tools/2026-02-18. Pi The Minimal Agent Within OpenClaw.md",
+                "file": "Articles/Software & Tools/2023-11-05. Things you forgot (or never knew) because of React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-18. Pi The Minimal Agent Within OpenClaw"
+              "title": "2023-11-05. Things you forgot (or never knew) because of React"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
-    "Articles/Software & Tools/2026-02-18. Google \"We Have No Moat, And Neither Does OpenAI\".md",
     "Articles/Software & Tools/2026-02-18. Pi The Minimal Agent Within OpenClaw.md",
+    "Articles/Software & Tools/2023-11-05. Things you forgot (or never knew) because of React.md",
+    "Articles/Software & Tools/2026-02-18. Google \"We Have No Moat, And Neither Does OpenAI\".md",
     "Articles/Software & Tools/2026-02-18. Generative AI exists because of the transformer.md",
     "Articles/Software & Tools/2026-02-18. NAS RAID Levels Explained Which Level Is Right For You.md",
     "Articles/Computer Science/2026-02-04. Defeating Nondeterminism in LLM Inference.md",
@@ -209,7 +210,6 @@
     "Articles/Software & Tools",
     "Articles/Software Architecture/2026-02-04. Concurrency Deep Dive Code Strategies for High Traffic Applications.md",
     "Articles/Software Architecture",
-    "Articles/Software & Tools/2024-02-04. What Is ChatGPT Doing … and Why Does It Work?.md",
     "Finance",
     "Quick notes/Untitled.canvas",
     "Quick notes",
