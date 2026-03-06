@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/2026-03-05. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
+                "file": "Articles/Software & Tools/2023-04-09. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-05. Abusing HTTP hop-by-hop request headers - Nathan Davison"
+              "title": "2023-04-09. Abusing HTTP hop-by-hop request headers - Nathan Davison"
             }
           }
         ],
@@ -196,7 +196,7 @@
   },
   "active": "a0e23a7c3ee4203a",
   "lastOpenFiles": [
-    "Articles/2026-03-05. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
+    "Articles/Software & Tools/2023-04-09. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
     "Articles/Untitled.base",
     "Articles/Bookmarks.md",
     "Articles/Whitepapers/to do.md",
