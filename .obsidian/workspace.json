@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Software & Tools/2023-04-09. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
+                "file": "Articles/2026-03-05. Refinement Culture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-04-09. Abusing HTTP hop-by-hop request headers - Nathan Davison"
+              "title": "2026-03-05. Refinement Culture"
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "a0e23a7c3ee4203a",
   "lastOpenFiles": [
+    "Articles/History/2026-02-04. Fast · Patrick Collison.md",
+    "Articles/2026-03-05. Refinement Culture.md",
     "Articles/Software & Tools/2023-04-09. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
     "Articles/Untitled.base",
     "Articles/Bookmarks.md",
@@ -221,8 +223,6 @@
     "Obsidian.md",
     "Articles/Computer Science/2026-02-04. GPS.md",
     "Bartosz Ciechanowski.md",
-    "Articles/Software & Tools/2022-02-04. Email explained from first principles.md",
-    "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Articles/Computer Science",
     "Articles/Software & Tools",
     "Articles/Software Architecture",
