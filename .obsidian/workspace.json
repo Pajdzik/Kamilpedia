@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Software & Tools/2023-11-05. Things you forgot (or never knew) because of React.md",
+                "file": "Articles/Bookmarks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-11-05. Things you forgot (or never knew) because of React"
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a0e23a7c3ee4203a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/2026-03-05. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-05. Abusing HTTP hop-by-hop request headers - Nathan Davison"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,21 +194,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1069cd021f66dc7e",
+  "active": "a0e23a7c3ee4203a",
   "lastOpenFiles": [
-    "Articles/Software & Tools/2026-02-18. Pi The Minimal Agent Within OpenClaw.md",
+    "Articles/2026-03-05. Abusing HTTP hop-by-hop request headers - Nathan Davison.md",
+    "Articles/Untitled.base",
+    "Articles/Bookmarks.md",
+    "Articles/Whitepapers/to do.md",
+    "Articles/Software Architecture/2026-02-28. Consistent Hashing.md",
     "Articles/Software & Tools/2023-11-05. Things you forgot (or never knew) because of React.md",
+    "Articles/Software & Tools/2026-02-18. Pi The Minimal Agent Within OpenClaw.md",
     "Articles/Software & Tools/2026-02-18. Google \"We Have No Moat, And Neither Does OpenAI\".md",
     "Articles/Software & Tools/2026-02-18. Generative AI exists because of the transformer.md",
     "Articles/Software & Tools/2026-02-18. NAS RAID Levels Explained Which Level Is Right For You.md",
     "Articles/Computer Science/2026-02-04. Defeating Nondeterminism in LLM Inference.md",
-    "Articles/Whitepapers/to do.md",
     "Articles/Whitepapers/2022-02-17. Attention Is All You Need.md",
     "Articles/Software & Tools/2026-02-17. CLI tricks every developer should know.md",
     "Articles/Programming/2026-02-17. Build Your Own Redis with CC++  BuildYour Own Redis with CC++.md",
     "Engineering/Hardware/ZSA.md",
     "Articles/Work/Manager stuff/~ Highlights.md",
-    "Articles/Bookmarks.md",
     "Engineering/Tools/Docker.md",
     "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
     "Articles/Programming/2022-02-05. Locking in WebKit.md",
@@ -206,15 +224,12 @@
     "Articles/Software & Tools/2022-02-04. Email explained from first principles.md",
     "Articles/Programming/2026-01-16. Picking the Right Tool for Maneuvering JavaScript's Event Loop.md",
     "Articles/Computer Science",
-    "Articles/Software & Tools/2026-02-04. An Excruciatingly Detailed Guide ToSSH (But Only The Things I Actually Find Useful).md",
     "Articles/Software & Tools",
-    "Articles/Software Architecture/2026-02-04. Concurrency Deep Dive Code Strategies for High Traffic Applications.md",
     "Articles/Software Architecture",
     "Finance",
     "Quick notes/Untitled.canvas",
     "Quick notes",
     "Articles/History",
-    "Articles/Untitled.base",
     "Articles/Bookmarks",
     "Articles/Photography",
     "~archive",
