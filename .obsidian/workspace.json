@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/2023-10-03. A guide to using Asian names.md",
+                "file": "Articles/Social & History/2023-10-03. A guide to using Asian names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2023-10-03. A guide to using Asian names"
             }
+          },
+          {
+            "id": "37f07b7f5bce542e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,9 +190,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40773748430b4989",
+  "active": "1069cd021f66dc7e",
   "lastOpenFiles": [
-    "Articles/2023-10-03. A guide to using Asian names.md",
+    "Articles/Social & History/2023-10-03. A guide to using Asian names.md",
     "Articles/Bookmarks.md",
     "Articles/Social & History/2026-03-05. Refinement Culture.md",
     "Articles/Untitled",
