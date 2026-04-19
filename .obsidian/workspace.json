@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "37f07b7f5bce542e",
+            "id": "5ce8333a50cdf48d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Software/Raspberry Pi.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "Raspberry Pi"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
@@ -194,8 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37f07b7f5bce542e",
+  "active": "5ce8333a50cdf48d",
   "lastOpenFiles": [
+    "Articles/Programming/2026-03-17. ASCII characters are not pixels a deep dive into ASCII rendering.md",
+    "Software/Raspberry Pi.md",
     "Software/Proxmox.md",
     "Articles/Social & History/2023-10-03. A guide to using Asian names.md",
     "Articles/Bookmarks.md",
@@ -222,8 +222,6 @@
     "Articles/Programming/2022-02-05. Locking in WebKit.md",
     "Articles/Programming/2026-02-04. Don't fall into the anti-AI hype - <antirez>.md",
     "Articles/Software & Tools/2026-02-04. Finding a Readwise Reader replacement  Duck Who Codes - Blog by Duc Nguyen.md",
-    "Articles/Software & Tools/2026-02-04. Replacing Readwise with self hosted open source Wallabag with Obsidian Wallabag plugin.md",
-    "Obsidian.md",
     "Articles/Computer Science",
     "Articles/Software & Tools",
     "Articles/Software Architecture",
