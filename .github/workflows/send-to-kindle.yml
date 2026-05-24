@@ -15,6 +15,9 @@ concurrency:
 jobs:
   send:
     runs-on: ubuntu-latest
+    env:
+      SMTP_HOST: ${{ vars.SMTP_HOST }}
+      SMTP_PORT: ${{ vars.SMTP_PORT }}
 
     steps:
       - name: Check out vault
@@ -26,7 +29,7 @@ jobs:
           python-version: "3.12"
 
       - name: Send articles
-        uses: Pajdzik/send-to-kindle-github-action@v1
+        uses: Pajdzik/send-to-kindle-github-action@v2
         with:
           articles-path: Articles
           title: Kamilpedia Articles
