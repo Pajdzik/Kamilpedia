@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Send articles
-        uses: Pajdzik/send-to-kindle-github-action@v9
+        uses: Pajdzik/send-to-kindle-github-action@v10
         with:
           articles-path: Articles
           title: Kamilpedia Articles
