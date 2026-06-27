@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Travel/Points partners.md",
+                "file": "Articles/Social & History/2026-03-05. Refinement Culture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Points partners"
+              "title": "2026-03-05. Refinement Culture"
             }
           }
         ],
@@ -196,12 +196,14 @@
   },
   "active": "5ce8333a50cdf48d",
   "lastOpenFiles": [
+    "Articles/Social & History/2026-01-16. Fast · Patrick Collison.md",
+    "Articles/Social & History/2023-10-03. A guide to using Asian names.md",
+    "Articles/Computer Science/2026-02-04. Defeating Nondeterminism in LLM Inference.md",
     "Finance/Travel/Points partners.md",
     "Finance/Travel",
     "Articles/Programming/2026-03-17. ASCII characters are not pixels a deep dive into ASCII rendering.md",
     "Software/Raspberry Pi.md",
     "Software/Proxmox.md",
-    "Articles/Social & History/2023-10-03. A guide to using Asian names.md",
     "Articles/Bookmarks.md",
     "Articles/Social & History/2026-03-05. Refinement Culture.md",
     "Articles/Untitled",
@@ -215,7 +217,6 @@
     "Articles/Software & Tools/2026-02-18. Google \"We Have No Moat, And Neither Does OpenAI\".md",
     "Articles/Software & Tools/2026-02-18. Generative AI exists because of the transformer.md",
     "Articles/Software & Tools/2026-02-18. NAS RAID Levels Explained Which Level Is Right For You.md",
-    "Articles/Computer Science/2026-02-04. Defeating Nondeterminism in LLM Inference.md",
     "Articles/Whitepapers/2022-02-17. Attention Is All You Need.md",
     "Articles/Software & Tools/2026-02-17. CLI tricks every developer should know.md",
     "Articles/Programming/2026-02-17. Build Your Own Redis with CC++  BuildYour Own Redis with CC++.md",
@@ -224,7 +225,6 @@
     "Engineering/Tools/Docker.md",
     "Articles/Software & Tools/2026-02-04. Pi The Minimal Agent Within OpenClaw.md",
     "Articles/Programming/2022-02-05. Locking in WebKit.md",
-    "Articles/Programming/2026-02-04. Don't fall into the anti-AI hype - <antirez>.md",
     "Articles/Computer Science",
     "Articles/Software & Tools",
     "Articles/Software Architecture",
